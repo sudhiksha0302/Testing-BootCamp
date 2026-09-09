@@ -1,0 +1,29 @@
+package SeleniumWebDriver.Locators;
+
+import java.util.List;
+
+import org.openqa.selenium.By;
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.WebElement;
+import org.openqa.selenium.edge.EdgeDriver;
+
+public class Hiox {
+	
+	public static void main(String[] args) throws Exception{
+		
+		WebDriver driver;
+		String baseURl="https://www.login.hiox.com/login?";
+		driver=new EdgeDriver();
+		driver.navigate().to(baseURl);
+		driver.manage().window().maximize();
+		Thread.sleep(10000);
+		
+		
+		
+		List<WebElement>allLinks=driver.findElements(By.tagName("a"));
+		System.out.println("No.of links:"+allLinks.size());
+		
+		driver.quit();
+	}
+
+}
