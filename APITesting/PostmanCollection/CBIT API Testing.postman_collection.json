@@ -1,0 +1,462 @@
+{
+  "info": {
+    "_postman_id": "33252a53-eb5f-45ca-93d3-48b6aa248137",
+    "name": "CBIT API Testing",
+    "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+    "_exporter_id": "56894664",
+    "_collection_link": "https://go.postman.co/collection/56894664-33252a53-eb5f-45ca-93d3-48b6aa248137?source=collection_link"
+  },
+  "item": [
+    {
+      "name": "GET Request Method",
+      "item": [
+        {
+          "name": "Dummy-Todos",
+          "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+              "raw": "https://dummy-json.mock.beeceptor.com/todos",
+              "protocol": "https",
+              "host": [
+                "dummy-json",
+                "mock",
+                "beeceptor",
+                "com"
+              ],
+              "path": [
+                "todos"
+              ]
+            }
+          },
+          "response": []
+        },
+        {
+          "name": "Typicode-posts",
+          "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+              "raw": ""
+            }
+          },
+          "response": []
+        },
+        {
+          "name": "AutomationExercise-productsList",
+          "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+              "raw": ""
+            }
+          },
+          "response": []
+        },
+        {
+          "name": "AutomationExercise-getUserDetailByEmail",
+          "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+              "raw": ""
+            }
+          },
+          "response": []
+        },
+        {
+          "name": "Typicode-comments",
+          "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+              "raw": ""
+            }
+          },
+          "response": []
+        },
+        {
+          "name": "Beeceptor-users",
+          "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+              "raw": ""
+            }
+          },
+          "response": []
+        },
+        {
+          "name": "Beeceptor-companies",
+          "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+              "raw": ""
+            }
+          },
+          "response": []
+        },
+        {
+          "name": "Beeceptor-posts",
+          "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+              "raw": ""
+            }
+          },
+          "response": []
+        },
+        {
+          "name": "Beeceptor-continents",
+          "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+              "raw": ""
+            }
+          },
+          "response": []
+        }
+      ]
+    },
+    {
+      "name": "POST Request Method",
+      "item": [
+        {
+          "name": "AutomationExercise-searchProduct",
+          "request": {
+            "method": "POST",
+            "header": [],
+            "body": {
+              "mode": "raw",
+              "raw": "{\r\n  \"id\": 44,\r\n  \"name\": \"WOMEN T SHIRT - PINK\",\r\n  \"price\": \"Rs. 689\",\r\n  \"brand\": \"Mast & Harbour\",\r\n  \"category\": {\r\n    \"usertype\": {\r\n      \"usertype\": \"Women\"\r\n    },\r\n    \"category\": \"Tshirts\"\r\n  }\r\n}",
+              "options": {
+                "raw": {
+                  "language": "json"
+                }
+              }
+            },
+            "url": {
+              "raw": "https://automationexercise.com/api/productsList",
+              "protocol": "https",
+              "host": [
+                "automationexercise",
+                "com"
+              ],
+              "path": [
+                "api",
+                "productsList"
+              ]
+            }
+          },
+          "response": []
+        },
+        {
+          "name": "AutomationExercise-verifyLogin",
+          "request": {
+            "method": "POST",
+            "header": [],
+            "body": {
+              "mode": "urlencoded",
+              "urlencoded": [
+                {
+                  "key": "email",
+                  "value": "sudhiksha0302@gmail.com"
+                },
+                {
+                  "key": "password",
+                  "value": "Sudhi@0302"
+                }
+              ]
+            },
+            "url": {
+              "raw": "https://automationexercise.com/api/verifyLogin",
+              "protocol": "https",
+              "host": [
+                "automationexercise",
+                "com"
+              ],
+              "path": [
+                "api",
+                "verifyLogin"
+              ]
+            }
+          },
+          "response": []
+        },
+        {
+          "name": "fakeStoreAPI-products",
+          "request": {
+            "method": "POST",
+            "header": [],
+            "body": {
+              "mode": "raw",
+              "raw": "{\r\n    \"id\":0,\r\n    \"title\":\"API Testing\",\r\n    \"price\":2345,\r\n    \"description\":\"Automation Testing\",\r\n    \"image\":\"https://fakestoreapi.com\"\r\n}",
+              "options": {
+                "raw": {
+                  "language": "json"
+                }
+              }
+            },
+            "url": {
+              "raw": "https://fakestoreapi.com/products",
+              "protocol": "https",
+              "host": [
+                "fakestoreapi",
+                "com"
+              ],
+              "path": [
+                "products"
+              ]
+            }
+          },
+          "response": []
+        },
+        {
+          "name": "AutomationExercise-createAccount",
+          "request": {
+            "method": "POST",
+            "header": [],
+            "body": {
+              "mode": "urlencoded",
+              "urlencoded": [
+                {
+                  "key": "name",
+                  "value": "Sudhiksha"
+                },
+                {
+                  "key": "email",
+                  "value": "sudhiksha0302@gmail.com"
+                },
+                {
+                  "key": "password",
+                  "value": "Sudhi@0302"
+                },
+                {
+                  "key": "title",
+                  "value": "Mrs"
+                },
+                {
+                  "key": "birth_date",
+                  "value": "03"
+                },
+                {
+                  "key": "birth_month",
+                  "value": "02"
+                },
+                {
+                  "key": "birth_year",
+                  "value": "2006"
+                },
+                {
+                  "key": "firstname",
+                  "value": "Sudhiksha"
+                },
+                {
+                  "key": "lastname",
+                  "value": "Dongeshwar"
+                },
+                {
+                  "key": "company",
+                  "value": "Coforge"
+                },
+                {
+                  "key": "address1",
+                  "value": "Hyderabad"
+                },
+                {
+                  "key": "address2",
+                  "value": "Barkatpura"
+                },
+                {
+                  "key": "country",
+                  "value": "India"
+                },
+                {
+                  "key": "zipcode",
+                  "value": "500027"
+                },
+                {
+                  "key": "state",
+                  "value": "Telangana"
+                },
+                {
+                  "key": "city",
+                  "value": "Hyderabad"
+                },
+                {
+                  "key": "mobile_number",
+                  "value": "8639849165"
+                }
+              ]
+            },
+            "url": {
+              "raw": "https://automationexercise.com/api/createAccount",
+              "protocol": "https",
+              "host": [
+                "automationexercise",
+                "com"
+              ],
+              "path": [
+                "api",
+                "createAccount"
+              ]
+            }
+          },
+          "response": []
+        },
+        {
+          "name": "New Request",
+          "request": {
+            "method": "GET",
+            "header": []
+          },
+          "response": []
+        },
+        {
+          "name": "New Request",
+          "request": {
+            "method": "GET",
+            "header": []
+          },
+          "response": []
+        }
+      ]
+    },
+    {
+      "name": "PUT Request Method",
+      "item": [
+        {
+          "name": "AutomationExercise-brandsList",
+          "request": {
+            "method": "PUT",
+            "header": [],
+            "url": {
+              "raw": "https://automationexercise.com/api/brandsList",
+              "protocol": "https",
+              "host": [
+                "automationexercise",
+                "com"
+              ],
+              "path": [
+                "api",
+                "brandsList"
+              ]
+            }
+          },
+          "response": []
+        },
+        {
+          "name": "AutomationExercise-updateAccount",
+          "request": {
+            "method": "PUT",
+            "header": [],
+            "body": {
+              "mode": "urlencoded",
+              "urlencoded": [
+                {
+                  "key": "email",
+                  "value": "sudhiksha0302@gmail.com"
+                },
+                {
+                  "key": "password",
+                  "value": "Sudhi@0302"
+                },
+                {
+                  "key": "name",
+                  "value": "Sudhiksha"
+                },
+                {
+                  "key": "title",
+                  "value": "Mrs"
+                },
+                {
+                  "key": "birth_date",
+                  "value": "03"
+                },
+                {
+                  "key": "birth_month",
+                  "value": "02"
+                },
+                {
+                  "key": "birth_year",
+                  "value": "2006"
+                },
+                {
+                  "key": "company",
+                  "value": "Coforge"
+                },
+                {
+                  "key": "firstname",
+                  "value": "Sudhiksha"
+                },
+                {
+                  "key": "lastname",
+                  "value": "Ch"
+                },
+                {
+                  "key": "address1",
+                  "value": "Barkatpura"
+                },
+                {
+                  "key": "address2",
+                  "value": "Hyd"
+                },
+                {
+                  "key": "country",
+                  "value": "India"
+                },
+                {
+                  "key": "zipcode",
+                  "value": "500027"
+                },
+                {
+                  "key": "state",
+                  "value": "Telangana"
+                },
+                {
+                  "key": "city",
+                  "value": "Hyderabad"
+                },
+                {
+                  "key": "mobile_number",
+                  "value": "8639849165"
+                }
+              ]
+            },
+            "url": {
+              "raw": "https://automationexercise.com/api/updateAccount",
+              "protocol": "https",
+              "host": [
+                "automationexercise",
+                "com"
+              ],
+              "path": [
+                "api",
+                "updateAccount"
+              ]
+            }
+          },
+          "response": []
+        }
+      ]
+    },
+    {
+      "name": "DELETE Request Method",
+      "item": []
+    },
+    {
+      "name": "New Request",
+      "request": {
+        "method": "GET",
+        "header": [],
+        "url": {
+          "raw": ""
+        }
+      },
+      "response": []
+    }
+  ]
+}
