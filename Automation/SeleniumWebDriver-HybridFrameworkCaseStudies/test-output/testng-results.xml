@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2026-09-13T11:56:51 IST" name="Default suite" finished-at="2026-09-13T11:57:58 IST" duration-ms="66812">
+    <groups>
+    </groups>
+    <test started-at="2026-09-13T11:56:51 IST" name="Default test" finished-at="2026-09-13T11:57:58 IST" duration-ms="66812">
+      <class name="com.NopCommerce.TestCases.LoginNopCommerce">
+        <test-method is-config="true" signature="SetUp()[pri:0, instance:com.NopCommerce.TestCases.LoginNopCommerce@21be3395]" started-at="2026-09-13T11:56:49 IST" name="SetUp" finished-at="2026-09-13T11:56:51 IST" duration-ms="1953" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method is-config="true" signature="BrowserTest()[pri:0, instance:com.NopCommerce.TestCases.LoginNopCommerce@21be3395]" started-at="2026-09-13T11:56:51 IST" name="BrowserTest" finished-at="2026-09-13T11:57:17 IST" duration-ms="26167" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BrowserTest -->
+        <test-method signature="loginApp()[pri:0, instance:com.NopCommerce.TestCases.LoginNopCommerce@21be3395]" started-at="2026-09-13T11:57:19 IST" name="loginApp" finished-at="2026-09-13T11:57:36 IST" duration-ms="16893" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginApp -->
+        <test-method is-config="true" signature="tearDownMethod(org.testng.ITestResult)[pri:0, instance:com.NopCommerce.TestCases.LoginNopCommerce@21be3395]" started-at="2026-09-13T11:57:36 IST" name="tearDownMethod" finished-at="2026-09-13T11:57:36 IST" duration-ms="63" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=loginApp status=SUCCESS method=LoginNopCommerce.loginApp()[pri:0, instance:com.NopCommerce.TestCases.LoginNopCommerce@21be3395] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownMethod -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.NopCommerce.TestCases.LoginNopCommerce@21be3395]" started-at="2026-09-13T11:57:37 IST" name="teardown" finished-at="2026-09-13T11:57:58 IST" duration-ms="21282" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.NopCommerce.TestCases.LoginNopCommerce -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
