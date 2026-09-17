@@ -1,0 +1,659 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1789535662405,1174,Snacks - HTTP Request,403,Forbidden,Blinkit 3-2,text,false,,562497,135,4,17,https://blinkit.com/cn/null/cid/1237/940,550,0,498
+1789535662040,1567,Snacks - HTTP Request,403,Forbidden,Blinkit 3-1,text,false,,562480,135,4,17,https://blinkit.com/cn/null/cid/1237/940,915,0,863
+1789535662910,1168,Snacks - HTTP Request,403,Forbidden,Blinkit 3-3,text,false,,562497,135,5,21,https://blinkit.com/cn/null/cid/1237/940,538,0,297
+1789535663586,1085,PetCare - HTTP Request,403,Forbidden,Blinkit 3-2,text,false,,562509,132,6,25,https://blinkit.com/cn/null/cid/5/133,26,0,0
+1789535664079,923,PetCare - HTTP Request,403,Forbidden,Blinkit 3-3,text,false,,562497,132,7,29,https://blinkit.com/cn/null/cid/5/133,56,0,0
+1789535663608,1438,PetCare - HTTP Request,403,Forbidden,Blinkit 3-1,text,false,,562488,132,7,29,https://blinkit.com/cn/null/cid/5/133,442,0,0
+1789535664672,868,DailyEssentials - HTTP Request,403,Forbidden,Blinkit 3-2,text,false,,562502,171,8,33,https://blinkit.com/dc/?collection_uuid=736e6fc2-8c33-4c35-9821-d325509aa0e5,279,0,0
+1789535665004,596,DailyEssentials - HTTP Request,403,Forbidden,Blinkit 3-3,text,false,,562495,171,8,33,https://blinkit.com/dc/?collection_uuid=736e6fc2-8c33-4c35-9821-d325509aa0e5,45,0,0
+1789535663404,2462,Snacks - HTTP Request,403,Forbidden,Blinkit 3-4,text,false,,562501,135,8,33,https://blinkit.com/cn/null/cid/1237/940,701,0,184
+1789535663904,2006,Snacks - HTTP Request,403,Forbidden,Blinkit 3-5,text,false,,562499,135,9,37,https://blinkit.com/cn/null/cid/1237/940,836,0,750
+1789535665047,1125,DailyEssentials - HTTP Request,403,Forbidden,Blinkit 3-1,text,false,,562491,171,9,37,https://blinkit.com/dc/?collection_uuid=736e6fc2-8c33-4c35-9821-d325509aa0e5,184,0,0
+1789535662038,4322,Makeup - HTTP Request,403,Forbidden,Nykaa 5-1,text,false,,1246,292,1,37,https://www.nykaa.com/sp/makeup-sale-page/makeup-sale,1843,0,1460
+1789535662038,1843,Makeup - HTTP Request-0,301,Moved Permanently,Nykaa 5-1,,true,,403,144,1,37,https://nykaa.com/sp/makeup-sale-page/makeup-sale,1843,0,1460
+1789535663883,2477,Makeup - HTTP Request-1,403,Forbidden,Nykaa 5-1,text,false,,843,148,1,37,https://www.nykaa.com/sp/makeup-sale-page/makeup-sale,2473,0,1623
+1789535665601,1014,PersonalCare - HTTP Request,403,Forbidden,Blinkit 3-3,text,false,,562499,134,10,41,https://blinkit.com/cn/null/cid/163/696,254,0,0
+1789535665540,1175,PersonalCare - HTTP Request,403,Forbidden,Blinkit 3-2,text,false,,562503,134,10,41,https://blinkit.com/cn/null/cid/163/696,64,0,0
+1789535664423,2292,Snacks - HTTP Request,403,Forbidden,Blinkit 3-6,text,false,,562499,135,10,41,https://blinkit.com/cn/null/cid/1237/940,756,0,592
+1789535665412,2246,Snacks - HTTP Request,403,Forbidden,Blinkit 3-8,text,false,,562499,135,10,41,https://blinkit.com/cn/null/cid/1237/940,525,0,436
+1789535665910,1753,PetCare - HTTP Request,403,Forbidden,Blinkit 3-5,text,false,,562499,132,10,41,https://blinkit.com/cn/null/cid/5/133,263,0,0
+1789535662393,5609,Restaurants - HTTP Request,200,OK,Swiggy 2-2,text,true,,90700,258,10,41,https://www.swiggy.com:443/restaurants,3969,0,3126
+1789535662393,3969,Restaurants - HTTP Request-0,301,Moved Permanently,Swiggy 2-2,text,true,,345,125,10,41,https://swiggy.com/restaurants,3969,0,3126
+1789535666363,1639,Restaurants - HTTP Request-1,200,OK,Swiggy 2-2,text,true,,90355,133,10,41,https://www.swiggy.com:443/restaurants,1330,0,394
+1789535666173,1835,PersonalCare - HTTP Request,403,Forbidden,Blinkit 3-1,text,false,,562497,134,10,41,https://blinkit.com/cn/null/cid/163/696,439,0,0
+1789535666616,1413,SweetTooth - HTTP Request,403,Forbidden,Blinkit 3-3,text,false,,562490,132,10,41,https://blinkit.com/cn/null/cid/9/944,154,0,0
+1789535665867,2164,PetCare - HTTP Request,403,Forbidden,Blinkit 3-4,text,false,,562495,132,10,41,https://blinkit.com/cn/null/cid/5/133,80,0,0
+1789535665912,2264,Snacks - HTTP Request,403,Forbidden,Blinkit 3-9,text,false,,562491,135,10,41,https://blinkit.com/cn/null/cid/1237/940,667,0,572
+1789535662038,6173,Restaurants - HTTP Request,200,OK,Swiggy 2-1,text,true,,90708,258,10,41,https://www.swiggy.com:443/restaurants,4324,0,3454
+1789535662038,4324,Restaurants - HTTP Request-0,301,Moved Permanently,Swiggy 2-1,text,true,,345,125,10,41,https://swiggy.com/restaurants,4324,0,3454
+1789535666365,1846,Restaurants - HTTP Request-1,200,OK,Swiggy 2-1,text,true,,90363,133,10,41,https://www.swiggy.com:443/restaurants,1141,0,392
+1789535664904,3506,Snacks - HTTP Request,403,Forbidden,Blinkit 3-7,text,false,,562491,135,10,41,https://blinkit.com/cn/null/cid/1237/940,1671,0,1561
+1789535666361,2136,Skin- HTTP Request,403,Forbidden,Nykaa 5-1,text,false,,1246,292,1,41,https://www.nykaa.com/sp/skin-sale-page/skincare-sale,161,0,0
+1789535666361,161,Skin- HTTP Request-0,301,Moved Permanently,Nykaa 5-1,,true,,403,144,1,41,https://nykaa.com/sp/skin-sale-page/skincare-sale,161,0,0
+1789535666522,1975,Skin- HTTP Request-1,403,Forbidden,Nykaa 5-1,text,false,,843,148,1,41,https://www.nykaa.com/sp/skin-sale-page/skincare-sale,1975,0,1283
+1789535666412,2145,Snacks - HTTP Request,403,Forbidden,Blinkit 3-10,text,false,,562500,135,10,41,https://blinkit.com/cn/null/cid/1237/940,921,0,355
+1789535666715,1914,SweetTooth - HTTP Request,403,Forbidden,Blinkit 3-2,text,false,,562496,132,10,41,https://blinkit.com/cn/null/cid/9/944,630,0,0
+1789535667664,1239,DailyEssentials - HTTP Request,403,Forbidden,Blinkit 3-5,text,false,,562498,171,10,41,https://blinkit.com/dc/?collection_uuid=736e6fc2-8c33-4c35-9821-d325509aa0e5,280,0,0
+1789535667660,1300,PetCare - HTTP Request,403,Forbidden,Blinkit 3-8,text,false,,562496,132,10,41,https://blinkit.com/cn/null/cid/5/133,282,0,0
+1789535668176,850,PetCare - HTTP Request,403,Forbidden,Blinkit 3-9,text,false,,562499,132,10,41,https://blinkit.com/cn/null/cid/5/133,235,0,0
+1789535666715,2316,PetCare - HTTP Request,403,Forbidden,Blinkit 3-6,text,false,,562498,132,10,41,https://blinkit.com/cn/null/cid/5/133,657,0,0
+1789535665396,3802,Restaurants - HTTP Request,200,OK,Swiggy 2-8,text,true,,90715,258,10,41,https://www.swiggy.com:443/restaurants,2410,0,2248
+1789535665396,2410,Restaurants - HTTP Request-0,301,Moved Permanently,Swiggy 2-8,text,true,,345,125,10,41,https://swiggy.com/restaurants,2410,0,2248
+1789535667807,1391,Restaurants - HTTP Request-1,200,OK,Swiggy 2-8,text,true,,90370,133,10,41,https://www.swiggy.com:443/restaurants,706,0,409
+1789535664893,4305,Restaurants - HTTP Request,200,OK,Swiggy 2-7,text,true,,90713,258,10,41,https://www.swiggy.com:443/restaurants,2916,0,2752
+1789535664893,2917,Restaurants - HTTP Request-0,301,Moved Permanently,Swiggy 2-7,text,true,,345,125,10,41,https://swiggy.com/restaurants,2916,0,2752
+1789535667813,1385,Restaurants - HTTP Request-1,200,OK,Swiggy 2-7,text,true,,90368,133,10,41,https://www.swiggy.com:443/restaurants,702,0,417
+1789535663394,5814,Restaurants - HTTP Request,200,OK,Swiggy 2-4,text,true,,90739,258,10,41,https://www.swiggy.com:443/restaurants,4236,0,2961
+1789535663896,5312,Restaurants - HTTP Request,200,OK,Swiggy 2-5,text,true,,90730,258,10,41,https://www.swiggy.com:443/restaurants,3744,0,2466
+1789535663394,4236,Restaurants - HTTP Request-0,301,Moved Permanently,Swiggy 2-4,text,true,,345,125,10,41,https://swiggy.com/restaurants,4236,0,2961
+1789535663896,3744,Restaurants - HTTP Request-0,301,Moved Permanently,Swiggy 2-5,text,true,,345,125,10,41,https://swiggy.com/restaurants,3744,0,2466
+1789535667631,1577,Restaurants - HTTP Request-1,200,OK,Swiggy 2-4,text,true,,90394,133,10,41,https://www.swiggy.com:443/restaurants,882,0,589
+1789535667641,1567,Restaurants - HTTP Request-1,200,OK,Swiggy 2-5,text,true,,90385,133,10,41,https://www.swiggy.com:443/restaurants,874,0,586
+1789535664400,5170,Restaurants - HTTP Request,200,OK,Swiggy 2-6,text,true,,90746,258,10,41,https://www.swiggy.com:443/restaurants,3398,0,3238
+1789535664400,3399,Restaurants - HTTP Request-0,301,Moved Permanently,Swiggy 2-6,text,true,,345,125,10,41,https://swiggy.com/restaurants,3398,0,3238
+1789535667800,1770,Restaurants - HTTP Request-1,200,OK,Swiggy 2-6,text,true,,90401,133,10,41,https://www.swiggy.com:443/restaurants,909,0,422
+1789535669027,608,DailyEssentials - HTTP Request,403,Forbidden,Blinkit 3-9,text,false,,562503,171,10,41,https://blinkit.com/dc/?collection_uuid=736e6fc2-8c33-4c35-9821-d325509aa0e5,166,0,0
+1789535668558,1177,PetCare - HTTP Request,403,Forbidden,Blinkit 3-10,text,false,,562491,132,10,41,https://blinkit.com/cn/null/cid/5/133,468,0,0
+1789535669636,490,PersonalCare - HTTP Request,403,Forbidden,Blinkit 3-9,text,false,,562489,134,10,41,https://blinkit.com/cn/null/cid/163/696,296,0,0
+1789535668411,1749,PetCare - HTTP Request,403,Forbidden,Blinkit 3-7,text,false,,562505,132,10,41,https://blinkit.com/cn/null/cid/5/133,306,0,0
+1789535668029,2215,Snacks - HTTP Request,403,Forbidden,Blinkit 3-3,text,false,,562511,135,10,41,https://blinkit.com/cn/null/cid/1237/940,263,0,0
+1789535668008,2239,SweetTooth - HTTP Request,403,Forbidden,Blinkit 3-1,text,false,,562488,132,10,41,https://blinkit.com/cn/null/cid/9/944,272,0,0
+1789535668960,1365,DailyEssentials - HTTP Request,403,Forbidden,Blinkit 3-8,text,false,,562492,171,10,41,https://blinkit.com/dc/?collection_uuid=736e6fc2-8c33-4c35-9821-d325509aa0e5,211,0,0
+1789535668907,1423,PersonalCare - HTTP Request,403,Forbidden,Blinkit 3-5,text,false,,562490,134,10,41,https://blinkit.com/cn/null/cid/163/696,258,0,0
+1789535669735,788,DailyEssentials - HTTP Request,403,Forbidden,Blinkit 3-10,text,false,,562496,171,10,41,https://blinkit.com/dc/?collection_uuid=736e6fc2-8c33-4c35-9821-d325509aa0e5,361,0,0
+1789535670133,425,SweetTooth - HTTP Request,403,Forbidden,Blinkit 3-9,text,false,,562499,132,10,41,https://blinkit.com/cn/null/cid/9/944,192,0,0
+1789535665894,4738,Restaurants - HTTP Request,200,OK,Swiggy 2-9,text,true,,90713,258,10,41,https://www.swiggy.com:443/restaurants,2604,0,1912
+1789535665894,2605,Restaurants - HTTP Request-0,301,Moved Permanently,Swiggy 2-9,text,true,,345,125,10,41,https://swiggy.com/restaurants,2604,0,1912
+1789535668499,2133,Restaurants - HTTP Request-1,200,OK,Swiggy 2-9,text,true,,90368,133,10,41,https://www.swiggy.com:443/restaurants,1322,0,708
+1789535668031,2791,DailyEssentials - HTTP Request,403,Forbidden,Blinkit 3-4,text,false,,562487,171,10,41,https://blinkit.com/dc/?collection_uuid=736e6fc2-8c33-4c35-9821-d325509aa0e5,261,0,0
+1789535669031,1995,DailyEssentials - HTTP Request,403,Forbidden,Blinkit 3-6,text,false,,562499,171,10,41,https://blinkit.com/dc/?collection_uuid=736e6fc2-8c33-4c35-9821-d325509aa0e5,205,0,0
+1789535670559,482,Snacks - HTTP Request,403,Forbidden,Blinkit 3-9,text,false,,562485,135,10,41,https://blinkit.com/cn/null/cid/1237/940,213,0,0
+1789535668629,2445,Snacks - HTTP Request,403,Forbidden,Blinkit 3-2,text,false,,562487,135,10,41,https://blinkit.com/cn/null/cid/1237/940,488,0,0
+1789535671042,673,PetCare - HTTP Request,403,Forbidden,Blinkit 3-9,text,false,,562503,132,10,41,https://blinkit.com/cn/null/cid/5/133,312,0,0
+1789535670330,1415,SweetTooth - HTTP Request,403,Forbidden,Blinkit 3-5,text,false,,562505,132,10,41,https://blinkit.com/cn/null/cid/9/944,242,0,0
+1789535670161,1586,DailyEssentials - HTTP Request,403,Forbidden,Blinkit 3-7,text,false,,562499,171,10,41,https://blinkit.com/dc/?collection_uuid=736e6fc2-8c33-4c35-9821-d325509aa0e5,185,0,0
+1789535670326,1426,PersonalCare - HTTP Request,403,Forbidden,Blinkit 3-8,text,false,,562500,134,10,41,https://blinkit.com/cn/null/cid/163/696,246,0,0
+1789535670524,1229,PersonalCare - HTTP Request,403,Forbidden,Blinkit 3-10,text,false,,562499,134,10,41,https://blinkit.com/cn/null/cid/163/696,220,0,0
+1789535671716,439,DailyEssentials - HTTP Request,403,Forbidden,Blinkit 3-9,text,false,,562501,171,10,41,https://blinkit.com/dc/?collection_uuid=736e6fc2-8c33-4c35-9821-d325509aa0e5,129,0,0
+1789535662907,9435,Restaurants - HTTP Request,200,OK,Swiggy 2-3,text,true,,90738,258,10,41,https://www.swiggy.com:443/restaurants,4729,0,3455
+1789535662907,4729,Restaurants - HTTP Request-0,301,Moved Permanently,Swiggy 2-3,text,true,,345,125,10,41,https://swiggy.com/restaurants,4729,0,3455
+1789535667636,4706,Restaurants - HTTP Request-1,200,OK,Swiggy 2-3,text,true,,90393,133,10,41,https://www.swiggy.com:443/restaurants,879,0,589
+1789535672156,739,PersonalCare - HTTP Request,403,Forbidden,Blinkit 3-9,text,false,,562497,134,10,41,https://blinkit.com/cn/null/cid/163/696,205,0,0
+1789535670245,2918,PetCare - HTTP Request,403,Forbidden,Blinkit 3-3,text,false,,562495,132,10,41,https://blinkit.com/cn/null/cid/5/133,272,0,0
+1789535672896,414,SweetTooth - HTTP Request,403,Forbidden,Blinkit 3-9,text,false,,562501,132,10,41,https://blinkit.com/cn/null/cid/9/944,96,0,0
+1789535671754,1640,SweetTooth - HTTP Request,403,Forbidden,Blinkit 3-10,text,false,,562500,132,10,41,https://blinkit.com/cn/null/cid/9/944,132,0,0
+1789535673311,417,Snacks - HTTP Request,403,Forbidden,Blinkit 3-9,text,false,,562497,135,10,41,https://blinkit.com/cn/null/cid/1237/940,108,0,0
+1789535671027,2737,PersonalCare - HTTP Request,403,Forbidden,Blinkit 3-6,text,false,,562478,134,10,41,https://blinkit.com/cn/null/cid/163/696,367,0,0
+1789535671753,2019,SweetTooth - HTTP Request,403,Forbidden,Blinkit 3-8,text,false,,562488,132,10,41,https://blinkit.com/cn/null/cid/9/944,136,0,0
+1789535671746,2031,Snacks - HTTP Request,403,Forbidden,Blinkit 3-5,text,false,,562501,135,10,41,https://blinkit.com/cn/null/cid/1237/940,143,0,0
+1789535671747,2058,PersonalCare - HTTP Request,403,Forbidden,Blinkit 3-7,text,false,,562488,134,10,41,https://blinkit.com/cn/null/cid/163/696,144,0,0
+1789535666396,7611,Restaurants - HTTP Request,200,OK,Swiggy 2-10,text,true,,90738,258,10,41,https://www.swiggy.com:443/restaurants,4085,0,2101
+1789535666396,4086,Restaurants - HTTP Request-0,301,Moved Permanently,Swiggy 2-10,text,true,,345,125,10,41,https://swiggy.com/restaurants,4085,0,2101
+1789535670483,3524,Restaurants - HTTP Request-1,200,OK,Swiggy 2-10,text,true,,90393,133,10,41,https://www.swiggy.com:443/restaurants,3338,0,1869
+1789535670247,3935,Snacks - HTTP Request,403,Forbidden,Blinkit 3-1,text,false,,562495,135,10,41,https://blinkit.com/cn/null/cid/1237/940,281,0,0
+1789535673729,472,PetCare - HTTP Request,403,Forbidden,Blinkit 3-9,text,false,,562497,132,10,41,https://blinkit.com/cn/null/cid/5/133,470,0,0
+1789535668212,6039,Offers - HTTP Request,200,OK,Swiggy 2-1,text,true,,334148,264,10,41,https://www.swiggy.com:443/offers-near-me,291,0,0
+1789535668003,6248,Offers - HTTP Request,200,OK,Swiggy 2-2,text,true,,338331,264,10,41,https://www.swiggy.com:443/offers-near-me,500,0,0
+1789535668212,291,Offers - HTTP Request-0,301,Moved Permanently,Swiggy 2-1,text,true,,348,128,10,41,https://swiggy.com/offers-near-me,291,0,0
+1789535668003,500,Offers - HTTP Request-0,301,Moved Permanently,Swiggy 2-2,text,true,,348,128,10,41,https://swiggy.com/offers-near-me,500,0,0
+1789535668503,5748,Offers - HTTP Request-1,200,OK,Swiggy 2-1,text,true,,333800,136,10,41,https://www.swiggy.com:443/offers-near-me,1071,0,0
+1789535668503,5748,Offers - HTTP Request-1,200,OK,Swiggy 2-2,text,true,,337983,136,10,41,https://www.swiggy.com:443/offers-near-me,1014,0,0
+1789535670823,3605,PersonalCare - HTTP Request,403,Forbidden,Blinkit 3-4,text,false,,562505,134,10,41,https://blinkit.com/cn/null/cid/163/696,323,0,0
+1789535671074,3390,PetCare - HTTP Request,403,Forbidden,Blinkit 3-2,text,false,,562503,132,10,41,https://blinkit.com/cn/null/cid/5/133,406,0,0
+1789535674202,310,DailyEssentials - HTTP Request,403,Forbidden,Blinkit 3-9,text,false,,562499,171,10,41,https://blinkit.com/dc/?collection_uuid=736e6fc2-8c33-4c35-9821-d325509aa0e5,49,0,0
+1789535674513,497,PersonalCare - HTTP Request,403,Forbidden,Blinkit 3-9,text,false,,562507,134,10,41,https://blinkit.com/cn/null/cid/163/696,167,0,0
+1789535673395,1623,Snacks - HTTP Request,403,Forbidden,Blinkit 3-10,text,false,,562500,135,10,41,https://blinkit.com/cn/null/cid/1237/940,385,0,0
+1789535673779,1800,PetCare - HTTP Request,403,Forbidden,Blinkit 3-5,text,false,,562497,132,10,41,https://blinkit.com/cn/null/cid/5/133,376,0,0
+1789535675016,613,SweetTooth - HTTP Request,403,Forbidden,Blinkit 3-9,text,false,,562495,132,10,41,https://blinkit.com/cn/null/cid/9/944,134,0,0
+1789535673774,1893,Snacks - HTTP Request,403,Forbidden,Blinkit 3-8,text,false,,562501,135,9,40,https://blinkit.com/cn/null/cid/1237/940,380,0,0
+1789535673807,1927,SweetTooth - HTTP Request,403,Forbidden,Blinkit 3-7,text,false,,562490,132,9,40,https://blinkit.com/cn/null/cid/9/944,377,0,0
+1789535673765,2099,SweetTooth - HTTP Request,403,Forbidden,Blinkit 3-6,text,false,,562505,132,9,40,https://blinkit.com/cn/null/cid/9/944,388,0,0
+1789535673165,2769,DailyEssentials - HTTP Request,403,Forbidden,Blinkit 3-3,text,false,,562494,171,9,40,https://blinkit.com/dc/?collection_uuid=736e6fc2-8c33-4c35-9821-d325509aa0e5,156,0,0
+1789535675019,1369,PetCare - HTTP Request,403,Forbidden,Blinkit 3-10,text,false,,562497,132,9,40,https://blinkit.com/cn/null/cid/5/133,136,0,0
+1789535674429,2029,SweetTooth - HTTP Request,403,Forbidden,Blinkit 3-4,text,false,,562492,132,9,40,https://blinkit.com/cn/null/cid/9/944,88,0,0
+1789535674183,2709,PetCare - HTTP Request,403,Forbidden,Blinkit 3-1,text,false,,562488,132,9,40,https://blinkit.com/cn/null/cid/5/133,150,0,0
+1789535674465,2437,DailyEssentials - HTTP Request,403,Forbidden,Blinkit 3-2,text,false,,562510,171,9,40,https://blinkit.com/dc/?collection_uuid=736e6fc2-8c33-4c35-9821-d325509aa0e5,177,0,0
+1789535675580,1439,DailyEssentials - HTTP Request,403,Forbidden,Blinkit 3-5,text,false,,562496,171,9,40,https://blinkit.com/dc/?collection_uuid=736e6fc2-8c33-4c35-9821-d325509aa0e5,111,0,0
+1789535675682,1547,PetCare - HTTP Request,403,Forbidden,Blinkit 3-8,text,false,,562495,132,9,40,https://blinkit.com/cn/null/cid/5/133,56,0,0
+1789535675865,1829,Snacks - HTTP Request,403,Forbidden,Blinkit 3-6,text,false,,562489,135,9,40,https://blinkit.com/cn/null/cid/1237/940,68,0,0
+1789535675737,1995,Snacks - HTTP Request,403,Forbidden,Blinkit 3-7,text,false,,562500,135,9,40,https://blinkit.com/cn/null/cid/1237/940,101,0,0
+1789535675935,1865,PersonalCare - HTTP Request,403,Forbidden,Blinkit 3-3,text,false,,562501,134,9,40,https://blinkit.com/cn/null/cid/163/696,56,0,0
+1789535676390,1458,DailyEssentials - HTTP Request,403,Forbidden,Blinkit 3-10,text,false,,562505,171,9,40,https://blinkit.com/dc/?collection_uuid=736e6fc2-8c33-4c35-9821-d325509aa0e5,79,0,0
+1789535677020,1480,PersonalCare - HTTP Request,403,Forbidden,Blinkit 3-5,text,false,,562496,134,9,40,https://blinkit.com/cn/null/cid/163/696,132,0,0
+1789535676893,1647,DailyEssentials - HTTP Request,403,Forbidden,Blinkit 3-1,text,false,,562505,171,9,40,https://blinkit.com/dc/?collection_uuid=736e6fc2-8c33-4c35-9821-d325509aa0e5,69,0,0
+1789535676459,2321,Snacks - HTTP Request,403,Forbidden,Blinkit 3-4,text,false,,562501,135,9,40,https://blinkit.com/cn/null/cid/1237/940,404,0,0
+1789535676903,1980,PersonalCare - HTTP Request,403,Forbidden,Blinkit 3-2,text,false,,562501,134,9,40,https://blinkit.com/cn/null/cid/163/696,68,0,0
+1789535677231,1731,DailyEssentials - HTTP Request,403,Forbidden,Blinkit 3-8,text,false,,562489,171,9,40,https://blinkit.com/dc/?collection_uuid=736e6fc2-8c33-4c35-9821-d325509aa0e5,467,0,0
+1789535677696,1309,PetCare - HTTP Request,403,Forbidden,Blinkit 3-6,text,false,,562503,132,9,40,https://blinkit.com/cn/null/cid/5/133,89,0,0
+1789535677850,1283,PersonalCare - HTTP Request,403,Forbidden,Blinkit 3-10,text,false,,562495,134,9,40,https://blinkit.com/cn/null/cid/163/696,80,0,0
+1789535677733,1516,PetCare - HTTP Request,403,Forbidden,Blinkit 3-7,text,false,,562506,132,9,40,https://blinkit.com/cn/null/cid/5/133,66,0,0
+1789535677801,1460,SweetTooth - HTTP Request,403,Forbidden,Blinkit 3-3,text,false,,562502,132,9,40,https://blinkit.com/cn/null/cid/9/944,87,0,0
+1789535678501,1123,SweetTooth - HTTP Request,403,Forbidden,Blinkit 3-5,text,false,,562495,132,9,40,https://blinkit.com/cn/null/cid/9/944,318,0,0
+1789535678540,1219,PersonalCare - HTTP Request,403,Forbidden,Blinkit 3-1,text,false,,562488,134,9,40,https://blinkit.com/cn/null/cid/163/696,280,0,0
+1789535679009,880,DailyEssentials - HTTP Request,403,Forbidden,Blinkit 3-6,text,false,,562499,171,9,40,https://blinkit.com/dc/?collection_uuid=736e6fc2-8c33-4c35-9821-d325509aa0e5,161,0,0
+1789535678962,1023,PersonalCare - HTTP Request,403,Forbidden,Blinkit 3-8,text,false,,562498,134,9,40,https://blinkit.com/cn/null/cid/163/696,147,0,0
+1789535678780,1244,PetCare - HTTP Request,403,Forbidden,Blinkit 3-4,text,false,,562502,132,9,40,https://blinkit.com/cn/null/cid/5/133,139,0,0
+1789535679139,914,SweetTooth - HTTP Request,403,Forbidden,Blinkit 3-10,text,false,,562495,132,9,40,https://blinkit.com/cn/null/cid/9/944,180,0,0
+1789535678884,1214,SweetTooth - HTTP Request,403,Forbidden,Blinkit 3-2,text,false,,562497,132,9,40,https://blinkit.com/cn/null/cid/9/944,106,0,0
+1789535679263,979,Snacks - HTTP Request,403,Forbidden,Blinkit 3-3,text,false,,562494,135,9,40,https://blinkit.com/cn/null/cid/1237/940,60,0,0
+1789535679251,995,DailyEssentials - HTTP Request,403,Forbidden,Blinkit 3-7,text,false,,562495,171,9,40,https://blinkit.com/dc/?collection_uuid=736e6fc2-8c33-4c35-9821-d325509aa0e5,71,0,0
+1789535679624,837,Snacks - HTTP Request,403,Forbidden,Blinkit 3-5,text,false,,562501,135,9,40,https://blinkit.com/cn/null/cid/1237/940,110,0,0
+1789535679759,1208,SweetTooth - HTTP Request,403,Forbidden,Blinkit 3-1,text,false,,562499,132,9,40,https://blinkit.com/cn/null/cid/9/944,75,0,0
+1789535679890,1079,PersonalCare - HTTP Request,403,Forbidden,Blinkit 3-6,text,false,,562505,134,9,40,https://blinkit.com/cn/null/cid/163/696,33,0,0
+1789535668498,12508,Shampoo - HTTP Request,403,Forbidden,Nykaa 5-1,text,false,,1256,339,1,40,https://www.nykaa.com/natural/hair/shampoo-cleanser/c/9598,211,0,0
+1789535668498,211,Shampoo - HTTP Request-0,301,Moved Permanently,Nykaa 5-1,,true,,408,186,1,40,https://nykaa.com/natural/hair/shampoo-cleanser/c/9598?root=nav_3&dir=desc&order=popularity,211,0,0
+1789535668709,12297,Shampoo - HTTP Request-1,403,Forbidden,Nykaa 5-1,text,false,,848,153,1,40,https://www.nykaa.com/natural/hair/shampoo-cleanser/c/9598,12295,0,10439
+1789535679986,1510,SweetTooth - HTTP Request,403,Forbidden,Blinkit 3-8,text,false,,562487,132,9,40,https://blinkit.com/cn/null/cid/9/944,58,0,0
+1789535680054,1458,Snacks - HTTP Request,403,Forbidden,Blinkit 3-10,text,false,,562495,135,9,40,https://blinkit.com/cn/null/cid/1237/940,88,0,0
+1789535680243,1551,PetCare - HTTP Request,403,Forbidden,Blinkit 3-3,text,false,,562495,132,9,40,https://blinkit.com/cn/null/cid/5/133,102,0,0
+1789535680025,1782,DailyEssentials - HTTP Request,403,Forbidden,Blinkit 3-4,text,false,,562494,171,9,40,https://blinkit.com/dc/?collection_uuid=736e6fc2-8c33-4c35-9821-d325509aa0e5,119,0,0
+1789535680099,1708,Snacks - HTTP Request,403,Forbidden,Blinkit 3-2,text,false,,562494,135,9,40,https://blinkit.com/cn/null/cid/1237/940,87,0,0
+1789535680247,1631,PersonalCare - HTTP Request,403,Forbidden,Blinkit 3-7,text,false,,562499,134,9,40,https://blinkit.com/cn/null/cid/163/696,103,0,0
+1789535680463,1612,PetCare - HTTP Request,403,Forbidden,Blinkit 3-5,text,false,,562495,132,9,40,https://blinkit.com/cn/null/cid/5/133,361,0,0
+1789535680969,1614,Snacks - HTTP Request,403,Forbidden,Blinkit 3-1,text,false,,562487,135,9,40,https://blinkit.com/cn/null/cid/1237/940,340,0,0
+1789535680969,1740,SweetTooth - HTTP Request,403,Forbidden,Blinkit 3-6,text,false,,562505,132,9,40,https://blinkit.com/cn/null/cid/9/944,340,0,0
+1789535681497,1557,Snacks - HTTP Request,403,Forbidden,Blinkit 3-8,text,false,,562503,135,9,40,https://blinkit.com/cn/null/cid/1237/940,101,0,0
+1789535681513,1635,PetCare - HTTP Request,403,Forbidden,Blinkit 3-10,text,false,,562495,132,9,40,https://blinkit.com/cn/null/cid/5/133,91,0,0
+1789535681794,1842,DailyEssentials - HTTP Request,403,Forbidden,Blinkit 3-3,text,false,,562489,171,9,40,https://blinkit.com/dc/?collection_uuid=736e6fc2-8c33-4c35-9821-d325509aa0e5,83,0,0
+1789535682075,1663,DailyEssentials - HTTP Request,403,Forbidden,Blinkit 3-5,text,false,,562492,171,9,40,https://blinkit.com/dc/?collection_uuid=736e6fc2-8c33-4c35-9821-d325509aa0e5,110,0,0
+1789535681810,2026,PersonalCare - HTTP Request,403,Forbidden,Blinkit 3-4,text,false,,562491,134,9,40,https://blinkit.com/cn/null/cid/163/696,109,0,0
+1789535681809,2119,PetCare - HTTP Request,403,Forbidden,Blinkit 3-2,text,false,,562501,132,9,40,https://blinkit.com/cn/null/cid/5/133,110,0,0
+1789535682583,1541,PetCare - HTTP Request,403,Forbidden,Blinkit 3-1,text,false,,562501,132,9,40,https://blinkit.com/cn/null/cid/5/133,147,0,0
+1789535681879,2259,SweetTooth - HTTP Request,403,Forbidden,Blinkit 3-7,text,false,,562490,132,9,40,https://blinkit.com/cn/null/cid/9/944,215,0,0
+1789535682709,1749,Snacks - HTTP Request,403,Forbidden,Blinkit 3-6,text,false,,562497,135,9,40,https://blinkit.com/cn/null/cid/1237/940,153,0,0
+1789535683147,1443,DailyEssentials - HTTP Request,403,Forbidden,Blinkit 3-10,text,false,,562503,171,9,40,https://blinkit.com/dc/?collection_uuid=736e6fc2-8c33-4c35-9821-d325509aa0e5,167,0,0
+1789535683054,1612,PetCare - HTTP Request,403,Forbidden,Blinkit 3-8,text,false,,562502,132,9,40,https://blinkit.com/cn/null/cid/5/133,188,0,0
+1789535683740,1415,PersonalCare - HTTP Request,403,Forbidden,Blinkit 3-5,text,false,,562501,134,9,40,https://blinkit.com/cn/null/cid/163/696,187,0,0
+1789535684126,1059,DailyEssentials - HTTP Request,403,Forbidden,Blinkit 3-1,text,false,,562484,171,9,40,https://blinkit.com/dc/?collection_uuid=736e6fc2-8c33-4c35-9821-d325509aa0e5,185,0,0
+1789535683635,1658,PersonalCare - HTTP Request,403,Forbidden,Blinkit 3-3,text,false,,562493,134,9,40,https://blinkit.com/cn/null/cid/163/696,197,0,0
+1789535683837,1707,SweetTooth - HTTP Request,403,Forbidden,Blinkit 3-4,text,false,,562494,132,9,40,https://blinkit.com/cn/null/cid/9/944,299,0,0
+1789535672343,13223,Offers - HTTP Request,200,OK,Swiggy 2-3,text,true,,338330,264,10,40,https://www.swiggy.com:443/offers-near-me,6787,0,0
+1789535672343,6787,Offers - HTTP Request-0,301,Moved Permanently,Swiggy 2-3,text,true,,348,128,10,40,https://swiggy.com/offers-near-me,6787,0,0
+1789535679130,6436,Offers - HTTP Request-1,200,OK,Swiggy 2-3,text,true,,337982,136,10,40,https://www.swiggy.com:443/offers-near-me,2854,0,0
+1789535669209,16571,Offers - HTTP Request,200,OK,Swiggy 2-5,text,true,,338330,264,10,40,https://www.swiggy.com:443/offers-near-me,6545,0,0
+1789535669209,6545,Offers - HTTP Request-0,301,Moved Permanently,Swiggy 2-5,text,true,,348,128,10,40,https://swiggy.com/offers-near-me,6545,0,0
+1789535675755,10025,Offers - HTTP Request-1,200,OK,Swiggy 2-5,text,true,,337982,136,10,40,https://www.swiggy.com:443/offers-near-me,7407,0,0
+1789535684459,1347,PetCare - HTTP Request,403,Forbidden,Blinkit 3-6,text,false,,562500,132,9,40,https://blinkit.com/cn/null/cid/5/133,71,0,0
+1789535684139,1668,Snacks - HTTP Request,403,Forbidden,Blinkit 3-7,text,false,,562492,135,9,40,https://blinkit.com/cn/null/cid/1237/940,178,0,0
+1789535683928,1949,DailyEssentials - HTTP Request,403,Forbidden,Blinkit 3-2,text,false,,562497,171,9,40,https://blinkit.com/dc/?collection_uuid=736e6fc2-8c33-4c35-9821-d325509aa0e5,345,0,0
+1789535669209,16693,Offers - HTTP Request,200,OK,Swiggy 2-4,text,true,,338331,264,10,40,https://www.swiggy.com:443/offers-near-me,6539,0,0
+1789535669209,6539,Offers - HTTP Request-0,301,Moved Permanently,Swiggy 2-4,text,true,,348,128,10,40,https://swiggy.com/offers-near-me,6539,0,0
+1789535675749,10153,Offers - HTTP Request-1,200,OK,Swiggy 2-4,text,true,,337983,136,10,40,https://www.swiggy.com:443/offers-near-me,2325,0,0
+1789535669199,16725,Offers - HTTP Request,200,OK,Swiggy 2-7,text,true,,334148,264,10,40,https://www.swiggy.com:443/offers-near-me,6551,0,0
+1789535669199,6551,Offers - HTTP Request-0,301,Moved Permanently,Swiggy 2-7,text,true,,348,128,10,40,https://swiggy.com/offers-near-me,6551,0,0
+1789535675752,10172,Offers - HTTP Request-1,200,OK,Swiggy 2-7,text,true,,333800,136,10,40,https://www.swiggy.com:443/offers-near-me,2263,0,0
+1789535684667,1396,DailyEssentials - HTTP Request,403,Forbidden,Blinkit 3-8,text,false,,562485,171,9,40,https://blinkit.com/dc/?collection_uuid=736e6fc2-8c33-4c35-9821-d325509aa0e5,50,0,0
+1789535674252,11879,Support -  Request,200,OK,Swiggy 2-2,text,true,,88803,250,10,40,https://www.swiggy.com:443/support,4879,0,0
+1789535674252,4879,Support -  Request-0,301,Moved Permanently,Swiggy 2-2,text,true,,341,121,10,40,https://swiggy.com/support,4879,0,0
+1789535679132,6999,Support -  Request-1,200,OK,Swiggy 2-2,text,true,,88462,129,10,40,https://www.swiggy.com:443/support,3482,0,0
+1789535685186,1105,PersonalCare - HTTP Request,403,Forbidden,Blinkit 3-1,text,false,,562497,134,9,40,https://blinkit.com/cn/null/cid/163/696,32,0,0
+1789535674252,12052,Support -  Request,200,OK,Swiggy 2-1,text,true,,88817,250,10,40,https://www.swiggy.com:443/support,4880,0,0
+1789535674252,4880,Support -  Request-0,301,Moved Permanently,Swiggy 2-1,text,true,,341,121,10,40,https://swiggy.com/support,4880,0,0
+1789535679133,7171,Support -  Request-1,200,OK,Swiggy 2-1,text,true,,88476,129,10,40,https://www.swiggy.com:443/support,3480,0,0
+1789535684591,1791,PersonalCare - HTTP Request,403,Forbidden,Blinkit 3-10,text,false,,562484,134,9,40,https://blinkit.com/cn/null/cid/163/696,52,0,0
+1789535669199,17296,Offers - HTTP Request,200,OK,Swiggy 2-8,text,true,,338331,264,10,40,https://www.swiggy.com:443/offers-near-me,6549,0,0
+1789535669199,6549,Offers - HTTP Request-0,301,Moved Permanently,Swiggy 2-8,text,true,,348,128,10,40,https://swiggy.com/offers-near-me,6549,0,0
+1789535675750,10745,Offers - HTTP Request-1,200,OK,Swiggy 2-8,text,true,,337983,136,10,40,https://www.swiggy.com:443/offers-near-me,2328,0,0
+1789535669571,16926,Offers - HTTP Request,200,OK,Swiggy 2-6,text,true,,334148,264,10,40,https://www.swiggy.com:443/offers-near-me,6182,0,0
+1789535669571,6182,Offers - HTTP Request-0,301,Moved Permanently,Swiggy 2-6,text,true,,348,128,10,40,https://swiggy.com/offers-near-me,6182,0,0
+1789535675762,10735,Offers - HTTP Request-1,200,OK,Swiggy 2-6,text,true,,333800,136,10,40,https://www.swiggy.com:443/offers-near-me,2873,0,0
+1789535670634,16068,Offers - HTTP Request,200,OK,Swiggy 2-9,text,true,,338331,264,10,40,https://www.swiggy.com:443/offers-near-me,5218,0,0
+1789535670634,5218,Offers - HTTP Request-0,301,Moved Permanently,Swiggy 2-9,text,true,,348,128,10,40,https://swiggy.com/offers-near-me,5218,0,0
+1789535675853,10849,Offers - HTTP Request-1,200,OK,Swiggy 2-9,text,true,,337983,136,10,40,https://www.swiggy.com:443/offers-near-me,3747,0,0
+1789535674008,12843,Offers - HTTP Request,200,OK,Swiggy 2-10,text,true,,338330,264,10,40,https://www.swiggy.com:443/offers-near-me,5123,0,0
+1789535674008,5123,Offers - HTTP Request-0,301,Moved Permanently,Swiggy 2-10,text,true,,348,128,10,40,https://swiggy.com/offers-near-me,5123,0,0
+1789535679132,7719,Offers - HTTP Request-1,200,OK,Swiggy 2-10,text,true,,337982,136,10,40,https://www.swiggy.com:443/offers-near-me,3197,0,0
+1789535685155,1851,SweetTooth - HTTP Request,403,Forbidden,Blinkit 3-5,text,false,,562491,132,9,40,https://blinkit.com/cn/null/cid/9/944,74,0,0
+1789535685545,1508,Snacks - HTTP Request,403,Forbidden,Blinkit 3-4,text,false,,562496,135,8,39,https://blinkit.com/cn/null/cid/1237/940,179,0,0
+1789535685807,1313,DailyEssentials - HTTP Request,403,Forbidden,Blinkit 3-6,text,false,,562495,171,8,39,https://blinkit.com/dc/?collection_uuid=736e6fc2-8c33-4c35-9821-d325509aa0e5,215,0,0
+1789535685294,1920,SweetTooth - HTTP Request,403,Forbidden,Blinkit 3-3,text,false,,562497,132,8,39,https://blinkit.com/cn/null/cid/9/944,280,0,0
+1789535686292,928,SweetTooth - HTTP Request,403,Forbidden,Blinkit 3-1,text,false,,562489,132,7,38,https://blinkit.com/cn/null/cid/9/944,81,0,0
+1789535686063,1162,PersonalCare - HTTP Request,403,Forbidden,Blinkit 3-8,text,false,,562497,134,6,37,https://blinkit.com/cn/null/cid/163/696,60,0,0
+1789535685878,1594,PersonalCare - HTTP Request,403,Forbidden,Blinkit 3-2,text,false,,562511,134,6,37,https://blinkit.com/cn/null/cid/163/696,205,0,0
+1789535685808,1694,PetCare - HTTP Request,403,Forbidden,Blinkit 3-7,text,false,,562493,132,6,37,https://blinkit.com/cn/null/cid/5/133,216,0,0
+1789535686383,1425,SweetTooth - HTTP Request,403,Forbidden,Blinkit 3-10,text,false,,562491,132,6,37,https://blinkit.com/cn/null/cid/9/944,80,0,0
+1789535687121,891,PersonalCare - HTTP Request,403,Forbidden,Blinkit 3-6,text,false,,562504,134,5,36,https://blinkit.com/cn/null/cid/163/696,294,0,0
+1789535687226,964,SweetTooth - HTTP Request,403,Forbidden,Blinkit 3-8,text,false,,562500,132,5,36,https://blinkit.com/cn/null/cid/9/944,213,0,0
+1789535687054,1144,PetCare - HTTP Request,403,Forbidden,Blinkit 3-4,text,false,,562495,132,4,35,https://blinkit.com/cn/null/cid/5/133,172,0,0
+1789535687473,1021,SweetTooth - HTTP Request,403,Forbidden,Blinkit 3-2,text,false,,562503,132,4,35,https://blinkit.com/cn/null/cid/9/944,47,0,0
+1789535687502,1153,DailyEssentials - HTTP Request,403,Forbidden,Blinkit 3-7,text,false,,562499,171,3,34,https://blinkit.com/dc/?collection_uuid=736e6fc2-8c33-4c35-9821-d325509aa0e5,67,0,0
+1789535685566,3112,Support -  Request,200,OK,Swiggy 2-3,text,true,,88789,250,10,34,https://www.swiggy.com:443/support,2506,0,0
+1789535685566,2506,Support -  Request-0,301,Moved Permanently,Swiggy 2-3,text,true,,341,121,10,34,https://swiggy.com/support,2506,0,0
+1789535685902,2776,Support -  Request,200,OK,Swiggy 2-4,text,true,,88780,250,10,34,https://www.swiggy.com:443/support,2175,0,0
+1789535688073,605,Support -  Request-1,200,OK,Swiggy 2-3,text,true,,88448,129,10,34,https://www.swiggy.com:443/support,210,0,0
+1789535685902,2175,Support -  Request-0,301,Moved Permanently,Swiggy 2-4,text,true,,341,121,10,34,https://swiggy.com/support,2175,0,0
+1789535685924,2754,Support -  Request,200,OK,Swiggy 2-7,text,true,,88788,250,10,34,https://www.swiggy.com:443/support,2153,0,0
+1789535688077,601,Support -  Request-1,200,OK,Swiggy 2-4,text,true,,88439,129,10,34,https://www.swiggy.com:443/support,205,0,0
+1789535685924,2153,Support -  Request-0,301,Moved Permanently,Swiggy 2-7,text,true,,341,121,10,34,https://swiggy.com/support,2153,0,0
+1789535688077,601,Support -  Request-1,200,OK,Swiggy 2-7,text,true,,88447,129,10,34,https://www.swiggy.com:443/support,205,0,0
+1789535685780,2909,Support -  Request,200,OK,Swiggy 2-5,text,true,,88780,250,10,34,https://www.swiggy.com:443/support,2295,0,0
+1789535685780,2295,Support -  Request-0,301,Moved Permanently,Swiggy 2-5,text,true,,341,121,10,34,https://swiggy.com/support,2295,0,0
+1789535688075,614,Support -  Request-1,200,OK,Swiggy 2-5,text,true,,88439,129,10,34,https://www.swiggy.com:443/support,265,0,0
+1789535686495,2230,Support -  Request,200,OK,Swiggy 2-8,text,true,,88772,250,10,34,https://www.swiggy.com:443/support,1893,0,0
+1789535686495,1893,Support -  Request-0,301,Moved Permanently,Swiggy 2-8,text,true,,341,121,10,34,https://swiggy.com/support,1893,0,0
+1789535688388,337,Support -  Request-1,200,OK,Swiggy 2-8,text,true,,88431,129,10,34,https://www.swiggy.com:443/support,301,0,0
+1789535688013,729,SweetTooth - HTTP Request,403,Forbidden,Blinkit 3-6,text,false,,562494,132,3,34,https://blinkit.com/cn/null/cid/9/944,74,0,0
+1789535686701,2087,Support -  Request,200,OK,Swiggy 2-9,text,true,,88787,250,10,33,https://www.swiggy.com:443/support,1759,0,0
+1789535686701,1760,Support -  Request-0,301,Moved Permanently,Swiggy 2-9,text,true,,341,121,10,33,https://swiggy.com/support,1759,0,0
+1789535688461,327,Support -  Request-1,200,OK,Swiggy 2-9,text,true,,88446,129,10,33,https://www.swiggy.com:443/support,326,0,0
+1789535688198,867,DailyEssentials - HTTP Request,403,Forbidden,Blinkit 3-4,text,false,,562497,171,2,33,https://blinkit.com/dc/?collection_uuid=736e6fc2-8c33-4c35-9821-d325509aa0e5,134,0,0
+1789535686852,2320,Support -  Request,200,OK,Swiggy 2-10,text,true,,88811,250,10,33,https://www.swiggy.com:443/support,1910,0,0
+1789535686852,1910,Support -  Request-0,301,Moved Permanently,Swiggy 2-10,text,true,,341,121,10,33,https://swiggy.com/support,1910,0,0
+1789535688763,409,Support -  Request-1,200,OK,Swiggy 2-10,text,true,,88470,129,10,33,https://www.swiggy.com:443/support,263,0,0
+1789535686497,2807,Support -  Request,200,OK,Swiggy 2-6,text,true,,88793,250,10,33,https://www.swiggy.com:443/support,1891,0,0
+1789535686497,1891,Support -  Request-0,301,Moved Permanently,Swiggy 2-6,text,true,,341,121,10,33,https://swiggy.com/support,1891,0,0
+1789535688388,916,Support -  Request-1,200,OK,Swiggy 2-6,text,true,,88452,129,10,33,https://www.swiggy.com:443/support,304,0,0
+1789535681012,8300,NykaaLuxe - HTTP Request,403,Forbidden,Nykaa 5-1,text,false,,1222,276,1,33,https://www.nykaa.com/sp/ultraluxe/nykaa-luxe,1419,0,0
+1789535681012,1419,NykaaLuxe - HTTP Request-0,301,Moved Permanently,Nykaa 5-1,,true,,395,136,1,33,https://nykaa.com/sp/ultraluxe/nykaa-luxe,1419,0,0
+1789535682431,6881,NykaaLuxe - HTTP Request-1,403,Forbidden,Nykaa 5-1,text,false,,827,140,1,33,https://www.nykaa.com/sp/ultraluxe/nykaa-luxe,6880,0,6016
+1789535688656,825,PersonalCare - HTTP Request,403,Forbidden,Blinkit 3-7,text,false,,562499,134,2,33,https://blinkit.com/cn/null/cid/163/696,86,0,0
+1789535689066,953,PersonalCare - HTTP Request,403,Forbidden,Blinkit 3-4,text,false,,562489,134,2,33,https://blinkit.com/cn/null/cid/163/696,74,0,0
+1789535689482,1051,SweetTooth - HTTP Request,403,Forbidden,Blinkit 3-7,text,false,,562505,132,2,33,https://blinkit.com/cn/null/cid/9/944,31,0,0
+1789535690020,724,SweetTooth - HTTP Request,403,Forbidden,Blinkit 3-4,text,false,,562501,132,1,32,https://blinkit.com/cn/null/cid/9/944,32,0,0
+1789535689312,2208,Multivitamins - HTTP Request,403,Forbidden,Nykaa 5-1,text,false,,1276,322,1,31,https://www.nykaa.com/wellness/daily-nutrition/multivitamins/c/18541,20,0,0
+1789535689312,20,Multivitamins - HTTP Request-0,301,Moved Permanently,Nykaa 5-1,,true,,418,159,1,31,https://nykaa.com/wellness/daily-nutrition/multivitamins/c/18541,20,0,0
+1789535689332,2188,Multivitamins - HTTP Request-1,403,Forbidden,Nykaa 5-1,text,false,,858,163,1,31,https://www.nykaa.com/wellness/daily-nutrition/multivitamins/c/18541,2187,0,1974
+1789535688679,3444,Corporate - HTTP Request,200,OK,Swiggy 2-4,text,true,,355576,256,10,30,https://www.swiggy.com:443/corporate/,879,0,0
+1789535688679,879,Corporate - HTTP Request-0,301,Moved Permanently,Swiggy 2-4,text,true,,344,124,10,30,https://swiggy.com/corporate/,879,0,0
+1789535689558,2565,Corporate - HTTP Request-1,200,OK,Swiggy 2-4,text,true,,355232,132,10,30,https://www.swiggy.com:443/corporate/,2052,0,0
+1789535688678,3672,Corporate - HTTP Request,200,OK,Swiggy 2-3,text,true,,355535,256,10,30,https://www.swiggy.com:443/corporate/,880,0,0
+1789535688678,880,Corporate - HTTP Request-0,301,Moved Permanently,Swiggy 2-3,text,true,,344,124,10,30,https://swiggy.com/corporate/,880,0,0
+1789535689558,2792,Corporate - HTTP Request-1,200,OK,Swiggy 2-3,text,true,,355191,132,10,30,https://www.swiggy.com:443/corporate/,2577,0,0
+1789535688689,3695,Corporate - HTTP Request,200,OK,Swiggy 2-5,text,true,,355587,256,10,30,https://www.swiggy.com:443/corporate/,887,0,0
+1789535688689,887,Corporate - HTTP Request-0,301,Moved Permanently,Swiggy 2-5,text,true,,344,124,10,30,https://swiggy.com/corporate/,887,0,0
+1789535689577,2807,Corporate - HTTP Request-1,200,OK,Swiggy 2-5,text,true,,355243,132,10,30,https://www.swiggy.com:443/corporate/,2558,0,0
+1789535686130,6299,Corporate - HTTP Request,200,OK,Swiggy 2-2,text,true,,355496,256,10,30,https://www.swiggy.com:443/corporate/,2254,0,0
+1789535686130,2254,Corporate - HTTP Request-0,301,Moved Permanently,Swiggy 2-2,text,true,,344,124,10,30,https://swiggy.com/corporate/,2254,0,0
+1789535688385,4044,Corporate - HTTP Request-1,200,OK,Swiggy 2-2,text,true,,355152,132,10,30,https://www.swiggy.com:443/corporate/,1680,0,0
+1789535688679,3831,Corporate - HTTP Request,200,OK,Swiggy 2-7,text,true,,355604,256,10,30,https://www.swiggy.com:443/corporate/,897,0,0
+1789535688679,897,Corporate - HTTP Request-0,301,Moved Permanently,Swiggy 2-7,text,true,,344,124,10,30,https://swiggy.com/corporate/,897,0,0
+1789535689577,2933,Corporate - HTTP Request-1,200,OK,Swiggy 2-7,text,true,,355260,132,10,30,https://www.swiggy.com:443/corporate/,2761,0,0
+1789535686303,6598,Corporate - HTTP Request,200,OK,Swiggy 2-1,text,true,,355507,256,10,30,https://www.swiggy.com:443/corporate/,2081,0,0
+1789535686303,2081,Corporate - HTTP Request-0,301,Moved Permanently,Swiggy 2-1,text,true,,344,124,10,30,https://swiggy.com/corporate/,2081,0,0
+1789535688385,4516,Corporate - HTTP Request-1,200,OK,Swiggy 2-1,text,true,,355163,132,10,30,https://www.swiggy.com:443/corporate/,1675,0,0
+1789535692386,1997,FreshFruits - HTTP Request,202,Accepted,Swiggy 2-5,text,true,,1168,344,10,30,https://www.swiggy.com:443/instamart/category-listing?categoryName=Fresh%20Fruits,1750,0,0
+1789535692386,1750,FreshFruits - HTTP Request-0,301,Moved Permanently,Swiggy 2-5,text,true,,388,168,10,30,https://swiggy.com/instamart/category-listing?categoryName=Fresh%20Fruits,1750,0,0
+1789535694139,244,FreshFruits - HTTP Request-1,202,Accepted,Swiggy 2-5,text,true,,780,176,10,30,https://www.swiggy.com:443/instamart/category-listing?categoryName=Fresh%20Fruits,244,0,0
+1789535692363,2020,FreshFruits - HTTP Request,202,Accepted,Swiggy 2-3,text,true,,1168,344,10,30,https://www.swiggy.com:443/instamart/category-listing?categoryName=Fresh%20Fruits,1772,0,0
+1789535692363,1772,FreshFruits - HTTP Request-0,301,Moved Permanently,Swiggy 2-3,text,true,,388,168,10,30,https://swiggy.com/instamart/category-listing?categoryName=Fresh%20Fruits,1772,0,0
+1789535694138,245,FreshFruits - HTTP Request-1,202,Accepted,Swiggy 2-3,text,true,,780,176,10,30,https://www.swiggy.com:443/instamart/category-listing?categoryName=Fresh%20Fruits,245,0,0
+1789535692137,2248,FreshFruits - HTTP Request,202,Accepted,Swiggy 2-4,text,true,,1168,344,10,30,https://www.swiggy.com:443/instamart/category-listing?categoryName=Fresh%20Fruits,1999,0,0
+1789535692137,1999,FreshFruits - HTTP Request-0,301,Moved Permanently,Swiggy 2-4,text,true,,388,168,10,30,https://swiggy.com/instamart/category-listing?categoryName=Fresh%20Fruits,1999,0,0
+1789535694138,247,FreshFruits - HTTP Request-1,202,Accepted,Swiggy 2-4,text,true,,780,176,10,30,https://www.swiggy.com:443/instamart/category-listing?categoryName=Fresh%20Fruits,247,0,0
+1789535688789,5790,Corporate - HTTP Request,200,OK,Swiggy 2-9,text,true,,355635,256,10,30,https://www.swiggy.com:443/corporate/,832,0,0
+1789535688789,832,Corporate - HTTP Request-0,301,Moved Permanently,Swiggy 2-9,text,true,,344,124,10,30,https://swiggy.com/corporate/,832,0,0
+1789535689621,4958,Corporate - HTTP Request-1,200,OK,Swiggy 2-9,text,true,,355291,132,10,30,https://www.swiggy.com:443/corporate/,4392,0,0
+1789535692512,2076,FreshFruits - HTTP Request,202,Accepted,Swiggy 2-7,text,true,,1168,344,10,30,https://www.swiggy.com:443/instamart/category-listing?categoryName=Fresh%20Fruits,2010,0,0
+1789535692512,2010,FreshFruits - HTTP Request-0,301,Moved Permanently,Swiggy 2-7,text,true,,388,168,10,30,https://swiggy.com/instamart/category-listing?categoryName=Fresh%20Fruits,2010,0,0
+1789535694522,66,FreshFruits - HTTP Request-1,202,Accepted,Swiggy 2-7,text,true,,780,176,10,30,https://www.swiggy.com:443/instamart/category-listing?categoryName=Fresh%20Fruits,66,0,0
+1789535689173,5447,Corporate - HTTP Request,200,OK,Swiggy 2-10,text,true,,355486,256,10,30,https://www.swiggy.com:443/corporate/,1704,0,0
+1789535689173,1704,Corporate - HTTP Request-0,301,Moved Permanently,Swiggy 2-10,text,true,,344,124,10,30,https://swiggy.com/corporate/,1704,0,0
+1789535690877,3743,Corporate - HTTP Request-1,200,OK,Swiggy 2-10,text,true,,355142,132,10,30,https://www.swiggy.com:443/corporate/,3504,0,0
+1789535688726,6080,Corporate - HTTP Request,200,OK,Swiggy 2-8,text,true,,355532,256,10,30,https://www.swiggy.com:443/corporate/,2154,0,0
+1789535688726,2154,Corporate - HTTP Request-0,301,Moved Permanently,Swiggy 2-8,text,true,,344,124,10,30,https://swiggy.com/corporate/,2154,0,0
+1789535690880,3926,Corporate - HTTP Request-1,200,OK,Swiggy 2-8,text,true,,355188,132,10,30,https://www.swiggy.com:443/corporate/,3710,0,0
+1789535692902,1925,FreshFruits - HTTP Request,202,Accepted,Swiggy 2-1,text,true,,1168,344,10,30,https://www.swiggy.com:443/instamart/category-listing?categoryName=Fresh%20Fruits,1901,0,0
+1789535692435,2392,FreshFruits - HTTP Request,202,Accepted,Swiggy 2-2,text,true,,1168,344,10,30,https://www.swiggy.com:443/instamart/category-listing?categoryName=Fresh%20Fruits,2368,0,0
+1789535692902,1901,FreshFruits - HTTP Request-0,301,Moved Permanently,Swiggy 2-1,text,true,,388,168,10,30,https://swiggy.com/instamart/category-listing?categoryName=Fresh%20Fruits,1901,0,0
+1789535692435,2368,FreshFruits - HTTP Request-0,301,Moved Permanently,Swiggy 2-2,text,true,,388,168,10,30,https://swiggy.com/instamart/category-listing?categoryName=Fresh%20Fruits,2368,0,0
+1789535694803,24,FreshFruits - HTTP Request-1,202,Accepted,Swiggy 2-1,text,true,,780,176,10,30,https://www.swiggy.com:443/instamart/category-listing?categoryName=Fresh%20Fruits,24,0,0
+1789535694803,24,FreshFruits - HTTP Request-1,202,Accepted,Swiggy 2-2,text,true,,780,176,10,30,https://www.swiggy.com:443/instamart/category-listing?categoryName=Fresh%20Fruits,24,0,0
+1789535662039,32773,Dining - HTTP Request,200,OK,District 4-1,text,true,,966621,252,10,30,https://www.district.in:443/stores/,3471,0,2332
+1789535662039,3471,Dining - HTTP Request-0,301,Moved Permanently,District 4-1,text,true,,342,122,10,30,https://district.in/stores/,3471,0,2332
+1789535665513,29299,Dining - HTTP Request-1,200,OK,District 4-1,text,true,,966279,130,10,30,https://www.district.in:443/stores/,2991,0,2122
+1789535694621,500,FreshFruits - HTTP Request,202,Accepted,Swiggy 2-10,text,true,,1168,344,10,30,https://www.swiggy.com:443/instamart/category-listing?categoryName=Fresh%20Fruits,476,0,0
+1789535694621,476,FreshFruits - HTTP Request-0,301,Moved Permanently,Swiggy 2-10,text,true,,388,168,10,30,https://swiggy.com/instamart/category-listing?categoryName=Fresh%20Fruits,476,0,0
+1789535695097,24,FreshFruits - HTTP Request-1,202,Accepted,Swiggy 2-10,text,true,,780,176,10,30,https://www.swiggy.com:443/instamart/category-listing?categoryName=Fresh%20Fruits,24,0,0
+1789535694580,542,FreshFruits - HTTP Request,202,Accepted,Swiggy 2-9,text,true,,1168,344,10,30,https://www.swiggy.com:443/instamart/category-listing?categoryName=Fresh%20Fruits,515,0,0
+1789535694580,515,FreshFruits - HTTP Request-0,301,Moved Permanently,Swiggy 2-9,text,true,,388,168,10,30,https://swiggy.com/instamart/category-listing?categoryName=Fresh%20Fruits,515,0,0
+1789535695096,26,FreshFruits - HTTP Request-1,202,Accepted,Swiggy 2-9,text,true,,780,176,10,30,https://www.swiggy.com:443/instamart/category-listing?categoryName=Fresh%20Fruits,26,0,0
+1789535694807,679,FreshFruits - HTTP Request,202,Accepted,Swiggy 2-8,text,true,,1168,344,10,30,https://www.swiggy.com:443/instamart/category-listing?categoryName=Fresh%20Fruits,311,0,0
+1789535694807,311,FreshFruits - HTTP Request-0,301,Moved Permanently,Swiggy 2-8,text,true,,388,168,10,30,https://swiggy.com/instamart/category-listing?categoryName=Fresh%20Fruits,311,0,0
+1789535695118,368,FreshFruits - HTTP Request-1,202,Accepted,Swiggy 2-8,text,true,,780,176,10,30,https://www.swiggy.com:443/instamart/category-listing?categoryName=Fresh%20Fruits,368,0,0
+1789535694393,1123,Restaurants - HTTP Request,200,OK,Swiggy 2-3,text,true,,90700,258,10,30,https://www.swiggy.com:443/restaurants,683,0,0
+1789535694393,683,Restaurants - HTTP Request-0,301,Moved Permanently,Swiggy 2-3,text,true,,345,125,10,30,https://swiggy.com/restaurants,683,0,0
+1789535695076,440,Restaurants - HTTP Request-1,200,OK,Swiggy 2-3,text,true,,90355,133,10,30,https://www.swiggy.com:443/restaurants,413,0,0
+1789535694389,1139,Restaurants - HTTP Request,200,OK,Swiggy 2-4,text,true,,90722,258,10,30,https://www.swiggy.com:443/restaurants,687,0,0
+1789535694389,687,Restaurants - HTTP Request-0,301,Moved Permanently,Swiggy 2-4,text,true,,345,125,10,30,https://swiggy.com/restaurants,687,0,0
+1789535695076,452,Restaurants - HTTP Request-1,200,OK,Swiggy 2-4,text,true,,90377,133,10,30,https://www.swiggy.com:443/restaurants,425,0,0
+1789535694394,1137,Restaurants - HTTP Request,200,OK,Swiggy 2-5,text,true,,90722,258,10,30,https://www.swiggy.com:443/restaurants,683,0,0
+1789535694394,683,Restaurants - HTTP Request-0,301,Moved Permanently,Swiggy 2-5,text,true,,345,125,10,30,https://swiggy.com/restaurants,683,0,0
+1789535695078,453,Restaurants - HTTP Request-1,200,OK,Swiggy 2-5,text,true,,90377,133,10,30,https://www.swiggy.com:443/restaurants,412,0,0
+1789535694593,965,Restaurants - HTTP Request,200,OK,Swiggy 2-7,text,true,,90700,258,10,30,https://www.swiggy.com:443/restaurants,502,0,0
+1789535694593,502,Restaurants - HTTP Request-0,301,Moved Permanently,Swiggy 2-7,text,true,,345,125,10,30,https://swiggy.com/restaurants,502,0,0
+1789535695096,462,Restaurants - HTTP Request-1,200,OK,Swiggy 2-7,text,true,,90355,133,10,30,https://www.swiggy.com:443/restaurants,418,0,0
+1789535694828,991,Restaurants - HTTP Request,200,OK,Swiggy 2-1,text,true,,90737,258,10,30,https://www.swiggy.com:443/restaurants,291,0,0
+1789535694828,292,Restaurants - HTTP Request-0,301,Moved Permanently,Swiggy 2-1,text,true,,345,125,10,30,https://swiggy.com/restaurants,291,0,0
+1789535695120,699,Restaurants - HTTP Request-1,200,OK,Swiggy 2-1,text,true,,90392,133,10,30,https://www.swiggy.com:443/restaurants,411,0,0
+1789535694828,1009,Restaurants - HTTP Request,200,OK,Swiggy 2-2,text,true,,90737,258,10,30,https://www.swiggy.com:443/restaurants,291,0,0
+1789535694828,291,Restaurants - HTTP Request-0,301,Moved Permanently,Swiggy 2-2,text,true,,345,125,10,30,https://swiggy.com/restaurants,291,0,0
+1789535695120,717,Restaurants - HTTP Request-1,200,OK,Swiggy 2-2,text,true,,90392,133,10,30,https://www.swiggy.com:443/restaurants,440,0,0
+1789535695124,787,Restaurants - HTTP Request,200,OK,Swiggy 2-9,text,true,,90720,258,10,30,https://www.swiggy.com:443/restaurants,502,0,0
+1789535695124,502,Restaurants - HTTP Request-0,301,Moved Permanently,Swiggy 2-9,text,true,,345,125,10,30,https://swiggy.com/restaurants,502,0,0
+1789535695626,285,Restaurants - HTTP Request-1,200,OK,Swiggy 2-9,text,true,,90375,133,10,30,https://www.swiggy.com:443/restaurants,211,0,0
+1789535695488,453,Restaurants - HTTP Request,200,OK,Swiggy 2-8,text,true,,90699,258,10,30,https://www.swiggy.com:443/restaurants,271,0,0
+1789535695488,271,Restaurants - HTTP Request-0,301,Moved Permanently,Swiggy 2-8,text,true,,345,125,10,30,https://swiggy.com/restaurants,271,0,0
+1789535695759,182,Restaurants - HTTP Request-1,200,OK,Swiggy 2-8,text,true,,90354,133,10,30,https://www.swiggy.com:443/restaurants,151,0,0
+1789535695122,894,Restaurants - HTTP Request,200,OK,Swiggy 2-10,text,true,,90716,258,10,30,https://www.swiggy.com:443/restaurants,504,0,0
+1789535695122,504,Restaurants - HTTP Request-0,301,Moved Permanently,Swiggy 2-10,text,true,,345,125,10,30,https://swiggy.com/restaurants,504,0,0
+1789535695626,390,Restaurants - HTTP Request-1,200,OK,Swiggy 2-10,text,true,,90371,133,10,30,https://www.swiggy.com:443/restaurants,352,0,0
+1789535689305,6719,Corporate - HTTP Request,200,OK,Swiggy 2-6,text,true,,355596,256,10,30,https://www.swiggy.com:443/corporate/,1702,0,0
+1789535689305,1702,Corporate - HTTP Request-0,301,Moved Permanently,Swiggy 2-6,text,true,,344,124,10,30,https://swiggy.com/corporate/,1702,0,0
+1789535691007,5017,Corporate - HTTP Request-1,200,OK,Swiggy 2-6,text,true,,355252,132,10,30,https://www.swiggy.com:443/corporate/,3557,0,0
+1789535696030,177,FreshFruits - HTTP Request,202,Accepted,Swiggy 2-6,text,true,,1168,344,10,30,https://www.swiggy.com:443/instamart/category-listing?categoryName=Fresh%20Fruits,99,0,0
+1789535696030,99,FreshFruits - HTTP Request-0,301,Moved Permanently,Swiggy 2-6,text,true,,388,168,10,30,https://swiggy.com/instamart/category-listing?categoryName=Fresh%20Fruits,99,0,0
+1789535696129,78,FreshFruits - HTTP Request-1,202,Accepted,Swiggy 2-6,text,true,,780,176,10,30,https://www.swiggy.com:443/instamart/category-listing?categoryName=Fresh%20Fruits,78,0,0
+1789535695550,1045,Offers - HTTP Request,200,OK,Swiggy 2-5,text,true,,338330,264,10,30,https://www.swiggy.com:443/offers-near-me,212,0,0
+1789535695550,212,Offers - HTTP Request-0,301,Moved Permanently,Swiggy 2-5,text,true,,348,128,10,30,https://swiggy.com/offers-near-me,212,0,0
+1789535695762,833,Offers - HTTP Request-1,200,OK,Swiggy 2-5,text,true,,337982,136,10,30,https://www.swiggy.com:443/offers-near-me,475,0,0
+1789535695912,787,Offers - HTTP Request,200,OK,Swiggy 2-9,text,true,,338331,264,10,30,https://www.swiggy.com:443/offers-near-me,151,0,0
+1789535695912,152,Offers - HTTP Request-0,301,Moved Permanently,Swiggy 2-9,text,true,,348,128,10,30,https://swiggy.com/offers-near-me,151,0,0
+1789535696064,635,Offers - HTTP Request-1,200,OK,Swiggy 2-9,text,true,,337983,136,10,30,https://www.swiggy.com:443/offers-near-me,461,0,0
+1789535695942,914,Offers - HTTP Request,200,OK,Swiggy 2-8,text,true,,338331,264,10,30,https://www.swiggy.com:443/offers-near-me,131,0,0
+1789535695942,131,Offers - HTTP Request-0,301,Moved Permanently,Swiggy 2-8,text,true,,348,128,10,30,https://swiggy.com/offers-near-me,131,0,0
+1789535696073,783,Offers - HTTP Request-1,200,OK,Swiggy 2-8,text,true,,337983,136,10,30,https://www.swiggy.com:443/offers-near-me,587,0,0
+1789535696017,843,Offers - HTTP Request,200,OK,Swiggy 2-10,text,true,,338330,264,10,30,https://www.swiggy.com:443/offers-near-me,79,0,0
+1789535696017,79,Offers - HTTP Request-0,301,Moved Permanently,Swiggy 2-10,text,true,,348,128,10,30,https://swiggy.com/offers-near-me,79,0,0
+1789535696097,763,Offers - HTTP Request-1,200,OK,Swiggy 2-10,text,true,,337982,136,10,30,https://www.swiggy.com:443/offers-near-me,563,0,0
+1789535695518,1455,Offers - HTTP Request,200,OK,Swiggy 2-3,text,true,,338330,264,10,30,https://www.swiggy.com:443/offers-near-me,244,0,0
+1789535695518,244,Offers - HTTP Request-0,301,Moved Permanently,Swiggy 2-3,text,true,,348,128,10,30,https://swiggy.com/offers-near-me,244,0,0
+1789535695762,1211,Offers - HTTP Request-1,200,OK,Swiggy 2-3,text,true,,337982,136,10,30,https://www.swiggy.com:443/offers-near-me,470,0,0
+1789535695529,1576,Offers - HTTP Request,200,OK,Swiggy 2-4,text,true,,334149,264,10,30,https://www.swiggy.com:443/offers-near-me,234,0,0
+1789535695529,234,Offers - HTTP Request-0,301,Moved Permanently,Swiggy 2-4,text,true,,348,128,10,30,https://swiggy.com/offers-near-me,234,0,0
+1789535695763,1342,Offers - HTTP Request-1,200,OK,Swiggy 2-4,text,true,,333801,136,10,30,https://www.swiggy.com:443/offers-near-me,537,0,0
+1789535695559,1049,Offers - HTTP Request,200,OK,Swiggy 2-7,text,true,,338330,264,10,30,https://www.swiggy.com:443/offers-near-me,234,0,0
+1789535695559,234,Offers - HTTP Request-0,301,Moved Permanently,Swiggy 2-7,text,true,,348,128,10,30,https://swiggy.com/offers-near-me,234,0,0
+1789535695793,815,Offers - HTTP Request-1,200,OK,Swiggy 2-7,text,true,,337982,136,10,30,https://www.swiggy.com:443/offers-near-me,482,0,0
+1789535696213,907,Restaurants - HTTP Request,200,OK,Swiggy 2-6,text,true,,90699,258,10,30,https://www.swiggy.com:443/restaurants,504,0,0
+1789535696213,504,Restaurants - HTTP Request-0,301,Moved Permanently,Swiggy 2-6,text,true,,345,125,10,30,https://swiggy.com/restaurants,504,0,0
+1789535696718,402,Restaurants - HTTP Request-1,200,OK,Swiggy 2-6,text,true,,90354,133,10,30,https://www.swiggy.com:443/restaurants,185,0,0
+1789535666410,30744,Dining - HTTP Request,200,OK,District 4-10,text,true,,966626,252,10,30,https://www.district.in:443/stores/,5033,0,2087
+1789535666410,5033,Dining - HTTP Request-0,301,Moved Permanently,District 4-10,text,true,,342,122,10,30,https://district.in/stores/,5033,0,2087
+1789535671444,25710,Dining - HTTP Request-1,200,OK,District 4-10,text,true,,966284,130,10,30,https://www.district.in:443/stores/,14568,0,9574
+1789535665412,31561,Dining - HTTP Request,200,OK,District 4-8,text,true,,966683,252,10,30,https://www.district.in:443/stores/,2392,0,2231
+1789535665412,2392,Dining - HTTP Request-0,301,Moved Permanently,District 4-8,text,true,,342,122,10,30,https://district.in/stores/,2392,0,2231
+1789535667804,29169,Dining - HTTP Request-1,200,OK,District 4-8,text,true,,966341,130,10,30,https://www.district.in:443/stores/,9792,0,2686
+1789535696857,330,Support -  Request,200,OK,Swiggy 2-8,text,true,,88773,250,10,30,https://www.swiggy.com:443/support,134,0,0
+1789535696857,134,Support -  Request-0,301,Moved Permanently,Swiggy 2-8,text,true,,341,121,10,30,https://swiggy.com/support,134,0,0
+1789535696992,195,Support -  Request-1,200,OK,Swiggy 2-8,text,true,,88432,129,10,30,https://www.swiggy.com:443/support,164,0,0
+1789535697015,540,Support -  Request,200,OK,Swiggy 2-9,text,true,,88802,250,10,30,https://www.swiggy.com:443/support,126,0,0
+1789535697015,126,Support -  Request-0,301,Moved Permanently,Swiggy 2-9,text,true,,341,121,10,30,https://swiggy.com/support,126,0,0
+1789535697141,414,Support -  Request-1,200,OK,Swiggy 2-9,text,true,,88461,129,10,30,https://www.swiggy.com:443/support,149,0,0
+1789535696974,591,Support -  Request,200,OK,Swiggy 2-3,text,true,,88787,250,10,30,https://www.swiggy.com:443/support,165,0,0
+1789535696974,165,Support -  Request-0,301,Moved Permanently,Swiggy 2-3,text,true,,341,121,10,30,https://swiggy.com/support,165,0,0
+1789535697139,426,Support -  Request-1,200,OK,Swiggy 2-3,text,true,,88446,129,10,30,https://www.swiggy.com:443/support,151,0,0
+1789535696972,593,Support -  Request,200,OK,Swiggy 2-5,text,true,,88817,250,10,30,https://www.swiggy.com:443/support,164,0,0
+1789535696972,165,Support -  Request-0,301,Moved Permanently,Swiggy 2-5,text,true,,341,121,10,30,https://swiggy.com/support,164,0,0
+1789535697137,428,Support -  Request-1,200,OK,Swiggy 2-5,text,true,,88476,129,10,30,https://www.swiggy.com:443/support,185,0,0
+1789535697106,467,Support -  Request,200,OK,Swiggy 2-4,text,true,,88766,250,10,30,https://www.swiggy.com:443/support,86,0,0
+1789535697106,86,Support -  Request-0,301,Moved Permanently,Swiggy 2-4,text,true,,341,121,10,30,https://swiggy.com/support,86,0,0
+1789535697192,381,Support -  Request-1,200,OK,Swiggy 2-4,text,true,,88425,129,10,30,https://www.swiggy.com:443/support,361,0,0
+1789535696870,744,Support -  Request,200,OK,Swiggy 2-10,text,true,,88834,250,10,30,https://www.swiggy.com:443/support,323,0,0
+1789535696870,323,Support -  Request-0,301,Moved Permanently,Swiggy 2-10,text,true,,341,121,10,30,https://swiggy.com/support,323,0,0
+1789535697193,421,Support -  Request-1,200,OK,Swiggy 2-10,text,true,,88493,129,10,30,https://www.swiggy.com:443/support,409,0,0
+1789535695837,2138,Offers - HTTP Request,200,OK,Swiggy 2-2,text,true,,338330,264,10,30,https://www.swiggy.com:443/offers-near-me,214,0,0
+1789535695837,214,Offers - HTTP Request-0,301,Moved Permanently,Swiggy 2-2,text,true,,348,128,10,30,https://swiggy.com/offers-near-me,214,0,0
+1789535696052,1923,Offers - HTTP Request-1,200,OK,Swiggy 2-2,text,true,,337982,136,10,30,https://www.swiggy.com:443/offers-near-me,608,0,0
+1789535695820,2156,Offers - HTTP Request,200,OK,Swiggy 2-1,text,true,,338331,264,10,30,https://www.swiggy.com:443/offers-near-me,173,0,0
+1789535695820,173,Offers - HTTP Request-0,301,Moved Permanently,Swiggy 2-1,text,true,,348,128,10,30,https://swiggy.com/offers-near-me,173,0,0
+1789535695993,1983,Offers - HTTP Request-1,200,OK,Swiggy 2-1,text,true,,337983,136,10,30,https://www.swiggy.com:443/offers-near-me,630,0,0
+1789535697132,1053,Support -  Request,200,OK,Swiggy 2-7,text,true,,88826,250,10,30,https://www.swiggy.com:443/support,673,0,0
+1789535697132,673,Support -  Request-0,301,Moved Permanently,Swiggy 2-7,text,true,,341,121,10,30,https://swiggy.com/support,673,0,0
+1789535697806,379,Support -  Request-1,200,OK,Swiggy 2-7,text,true,,88485,129,10,30,https://www.swiggy.com:443/support,327,0,0
+1789535697131,1631,Offers - HTTP Request,200,OK,Swiggy 2-6,text,true,,338331,264,10,30,https://www.swiggy.com:443/offers-near-me,150,0,0
+1789535697131,150,Offers - HTTP Request-0,301,Moved Permanently,Swiggy 2-6,text,true,,348,128,10,30,https://swiggy.com/offers-near-me,150,0,0
+1789535697292,1470,Offers - HTTP Request-1,200,OK,Swiggy 2-6,text,true,,337983,136,10,30,https://www.swiggy.com:443/offers-near-me,680,0,0
+1789535697188,1578,Corporate - HTTP Request,200,OK,Swiggy 2-8,text,true,,355626,256,10,30,https://www.swiggy.com:443/corporate/,171,0,0
+1789535697188,172,Corporate - HTTP Request-0,301,Moved Permanently,Swiggy 2-8,text,true,,344,124,10,30,https://swiggy.com/corporate/,171,0,0
+1789535697360,1406,Corporate - HTTP Request-1,200,OK,Swiggy 2-8,text,true,,355282,132,10,30,https://www.swiggy.com:443/corporate/,1084,0,0
+1789535697975,914,Support -  Request,200,OK,Swiggy 2-2,text,true,,88818,250,10,30,https://www.swiggy.com:443/support,477,0,0
+1789535697975,477,Support -  Request-0,301,Moved Permanently,Swiggy 2-2,text,true,,341,121,10,30,https://swiggy.com/support,477,0,0
+1789535698452,437,Support -  Request-1,200,OK,Swiggy 2-2,text,true,,88477,129,10,30,https://www.swiggy.com:443/support,277,0,0
+1789535698767,254,FreshFruits - HTTP Request,202,Accepted,Swiggy 2-8,text,true,,1168,344,10,30,https://www.swiggy.com:443/instamart/category-listing?categoryName=Fresh%20Fruits,120,0,0
+1789535698767,120,FreshFruits - HTTP Request-0,301,Moved Permanently,Swiggy 2-8,text,true,,388,168,10,30,https://swiggy.com/instamart/category-listing?categoryName=Fresh%20Fruits,120,0,0
+1789535698887,134,FreshFruits - HTTP Request-1,202,Accepted,Swiggy 2-8,text,true,,780,176,10,30,https://www.swiggy.com:443/instamart/category-listing?categoryName=Fresh%20Fruits,134,0,0
+1789535697977,1045,Support -  Request,200,OK,Swiggy 2-1,text,true,,88787,250,10,30,https://www.swiggy.com:443/support,475,0,0
+1789535697977,475,Support -  Request-0,301,Moved Permanently,Swiggy 2-1,text,true,,341,121,10,30,https://swiggy.com/support,475,0,0
+1789535698453,569,Support -  Request-1,200,OK,Swiggy 2-1,text,true,,88446,129,10,30,https://www.swiggy.com:443/support,297,0,0
+1789535698763,1252,Support -  Request,200,OK,Swiggy 2-6,text,true,,88789,250,10,30,https://www.swiggy.com:443/support,124,0,0
+1789535698763,124,Support -  Request-0,301,Moved Permanently,Swiggy 2-6,text,true,,341,121,10,30,https://swiggy.com/support,124,0,0
+1789535698887,1128,Support -  Request-1,200,OK,Swiggy 2-6,text,true,,88448,129,10,30,https://www.swiggy.com:443/support,544,0,0
+1789535699022,1058,Restaurants - HTTP Request,200,OK,Swiggy 2-8,text,true,,90729,258,10,30,https://www.swiggy.com:443/restaurants,158,0,0
+1789535699022,158,Restaurants - HTTP Request-0,301,Moved Permanently,Swiggy 2-8,text,true,,345,125,10,30,https://swiggy.com/restaurants,158,0,0
+1789535699181,899,Restaurants - HTTP Request-1,200,OK,Swiggy 2-8,text,true,,90384,133,10,30,https://www.swiggy.com:443/restaurants,828,0,0
+1789535665916,34230,Dining - HTTP Request,200,OK,District 4-9,text,true,,966684,252,10,30,https://www.district.in:443/stores/,2582,0,1891
+1789535665916,2582,Dining - HTTP Request-0,301,Moved Permanently,District 4-9,text,true,,342,122,10,30,https://district.in/stores/,2582,0,1891
+1789535668499,31647,Dining - HTTP Request-1,200,OK,District 4-9,text,true,,966342,130,10,30,https://www.district.in:443/stores/,11164,0,7285
+1789535697617,3432,Corporate - HTTP Request,200,OK,Swiggy 2-10,text,true,,355608,256,10,30,https://www.swiggy.com:443/corporate/,227,0,0
+1789535697617,227,Corporate - HTTP Request-0,301,Moved Permanently,Swiggy 2-10,text,true,,344,124,10,30,https://swiggy.com/corporate/,227,0,0
+1789535697844,3205,Corporate - HTTP Request-1,200,OK,Swiggy 2-10,text,true,,355264,132,10,30,https://www.swiggy.com:443/corporate/,2167,0,0
+1789535697570,3481,Corporate - HTTP Request,200,OK,Swiggy 2-3,text,true,,355562,256,10,30,https://www.swiggy.com:443/corporate/,274,0,0
+1789535697570,274,Corporate - HTTP Request-0,301,Moved Permanently,Swiggy 2-3,text,true,,344,124,10,30,https://swiggy.com/corporate/,274,0,0
+1789535697844,3207,Corporate - HTTP Request-1,200,OK,Swiggy 2-3,text,true,,355218,132,10,30,https://www.swiggy.com:443/corporate/,2654,0,0
+1789535701054,381,FreshFruits - HTTP Request,202,Accepted,Swiggy 2-10,text,true,,1168,344,10,30,https://www.swiggy.com:443/instamart/category-listing?categoryName=Fresh%20Fruits,72,0,0
+1789535701054,72,FreshFruits - HTTP Request-0,301,Moved Permanently,Swiggy 2-10,text,true,,388,168,10,30,https://swiggy.com/instamart/category-listing?categoryName=Fresh%20Fruits,72,0,0
+1789535701127,308,FreshFruits - HTTP Request-1,202,Accepted,Swiggy 2-10,text,true,,780,176,10,30,https://www.swiggy.com:443/instamart/category-listing?categoryName=Fresh%20Fruits,308,0,0
+1789535701055,383,FreshFruits - HTTP Request,202,Accepted,Swiggy 2-3,text,true,,1168,344,10,30,https://www.swiggy.com:443/instamart/category-listing?categoryName=Fresh%20Fruits,96,0,0
+1789535701055,96,FreshFruits - HTTP Request-0,301,Moved Permanently,Swiggy 2-3,text,true,,388,168,10,30,https://swiggy.com/instamart/category-listing?categoryName=Fresh%20Fruits,96,0,0
+1789535701151,287,FreshFruits - HTTP Request-1,202,Accepted,Swiggy 2-3,text,true,,780,176,10,30,https://www.swiggy.com:443/instamart/category-listing?categoryName=Fresh%20Fruits,287,0,0
+1789535697573,3883,Corporate - HTTP Request,200,OK,Swiggy 2-4,text,true,,355550,256,10,30,https://www.swiggy.com:443/corporate/,272,0,0
+1789535697573,272,Corporate - HTTP Request-0,301,Moved Permanently,Swiggy 2-4,text,true,,344,124,10,30,https://swiggy.com/corporate/,272,0,0
+1789535697846,3610,Corporate - HTTP Request-1,200,OK,Swiggy 2-4,text,true,,355206,132,10,30,https://www.swiggy.com:443/corporate/,3108,0,0
+1789535697557,3998,Corporate - HTTP Request,200,OK,Swiggy 2-9,text,true,,355702,256,10,30,https://www.swiggy.com:443/corporate/,285,0,0
+1789535697557,285,Corporate - HTTP Request-0,301,Moved Permanently,Swiggy 2-9,text,true,,344,124,10,30,https://swiggy.com/corporate/,285,0,0
+1789535697843,3712,Corporate - HTTP Request-1,200,OK,Swiggy 2-9,text,true,,355358,132,10,30,https://www.swiggy.com:443/corporate/,3598,0,0
+1789535664915,36756,Dining - HTTP Request,200,OK,District 4-7,text,true,,968357,252,10,30,https://www.district.in:443/stores/,6533,0,2729
+1789535664915,6533,Dining - HTTP Request-0,301,Moved Permanently,District 4-7,text,true,,342,122,10,30,https://district.in/stores/,6533,0,2729
+1789535671449,30222,Dining - HTTP Request-1,200,OK,District 4-7,text,true,,968015,130,10,30,https://www.district.in:443/stores/,14568,0,9567
+1789535663918,37808,Dining - HTTP Request,200,OK,District 4-5,text,true,,968419,252,10,30,https://www.district.in:443/stores/,3721,0,2449
+1789535663918,3721,Dining - HTTP Request-0,301,Moved Permanently,District 4-5,text,true,,342,122,10,30,https://district.in/stores/,3721,0,2449
+1789535667640,34086,Dining - HTTP Request-1,200,OK,District 4-5,text,true,,968077,130,10,30,https://www.district.in:443/stores/,8112,0,855
+1789535701556,220,FreshFruits - HTTP Request,202,Accepted,Swiggy 2-9,text,true,,1168,344,10,30,https://www.swiggy.com:443/instamart/category-listing?categoryName=Fresh%20Fruits,111,0,0
+1789535701556,111,FreshFruits - HTTP Request-0,301,Moved Permanently,Swiggy 2-9,text,true,,388,168,10,30,https://swiggy.com/instamart/category-listing?categoryName=Fresh%20Fruits,111,0,0
+1789535701667,109,FreshFruits - HTTP Request-1,202,Accepted,Swiggy 2-9,text,true,,780,176,10,30,https://www.swiggy.com:443/instamart/category-listing?categoryName=Fresh%20Fruits,109,0,0
+1789535701459,317,FreshFruits - HTTP Request,202,Accepted,Swiggy 2-4,text,true,,1168,344,10,30,https://www.swiggy.com:443/instamart/category-listing?categoryName=Fresh%20Fruits,202,0,0
+1789535701459,202,FreshFruits - HTTP Request-0,301,Moved Permanently,Swiggy 2-4,text,true,,388,168,10,30,https://swiggy.com/instamart/category-listing?categoryName=Fresh%20Fruits,202,0,0
+1789535701661,115,FreshFruits - HTTP Request-1,202,Accepted,Swiggy 2-4,text,true,,780,176,10,30,https://www.swiggy.com:443/instamart/category-listing?categoryName=Fresh%20Fruits,115,0,0
+1789535701441,444,Restaurants - HTTP Request,200,OK,Swiggy 2-3,text,true,,90708,258,10,30,https://www.swiggy.com:443/restaurants,216,0,0
+1789535701441,216,Restaurants - HTTP Request-0,301,Moved Permanently,Swiggy 2-3,text,true,,345,125,10,30,https://swiggy.com/restaurants,216,0,0
+1789535701658,227,Restaurants - HTTP Request-1,200,OK,Swiggy 2-3,text,true,,90363,133,10,30,https://www.swiggy.com:443/restaurants,207,0,0
+1789535701435,452,Restaurants - HTTP Request,200,OK,Swiggy 2-10,text,true,,90707,258,10,30,https://www.swiggy.com:443/restaurants,222,0,0
+1789535701435,222,Restaurants - HTTP Request-0,301,Moved Permanently,Swiggy 2-10,text,true,,345,125,10,30,https://swiggy.com/restaurants,222,0,0
+1789535701657,230,Restaurants - HTTP Request-1,200,OK,Swiggy 2-10,text,true,,90362,133,10,30,https://www.swiggy.com:443/restaurants,204,0,0
+1789535701777,428,Restaurants - HTTP Request,200,OK,Swiggy 2-4,text,true,,90730,258,10,30,https://www.swiggy.com:443/restaurants,190,0,0
+1789535701777,191,Restaurants - HTTP Request-0,301,Moved Permanently,Swiggy 2-4,text,true,,345,125,10,30,https://swiggy.com/restaurants,190,0,0
+1789535701968,237,Restaurants - HTTP Request-1,200,OK,Swiggy 2-4,text,true,,90385,133,10,30,https://www.swiggy.com:443/restaurants,177,0,0
+1789535700210,2055,Offers - HTTP Request,200,OK,Swiggy 2-8,text,true,,334148,264,10,30,https://www.swiggy.com:443/offers-near-me,680,0,0
+1789535700210,680,Offers - HTTP Request-0,301,Moved Permanently,Swiggy 2-8,text,true,,348,128,10,30,https://swiggy.com/offers-near-me,680,0,0
+1789535700897,1368,Offers - HTTP Request-1,200,OK,Swiggy 2-8,text,true,,333800,136,10,30,https://www.swiggy.com:443/offers-near-me,1173,0,0
+1789535662919,39431,Dining - HTTP Request,200,OK,District 4-3,text,true,,968400,252,10,30,https://www.district.in:443/stores/,4709,0,3436
+1789535662919,4709,Dining - HTTP Request-0,301,Moved Permanently,District 4-3,text,true,,342,122,10,30,https://district.in/stores/,4709,0,3436
+1789535667629,34721,Dining - HTTP Request-1,200,OK,District 4-3,text,true,,968058,130,10,30,https://www.district.in:443/stores/,8119,0,867
+1789535701777,591,Restaurants - HTTP Request,200,OK,Swiggy 2-9,text,true,,90707,258,10,30,https://www.swiggy.com:443/restaurants,190,0,0
+1789535701777,191,Restaurants - HTTP Request-0,301,Moved Permanently,Swiggy 2-9,text,true,,345,125,10,30,https://swiggy.com/restaurants,190,0,0
+1789535701968,400,Restaurants - HTTP Request-1,200,OK,Swiggy 2-9,text,true,,90362,133,10,30,https://www.swiggy.com:443/restaurants,305,0,0
+1789535697572,5152,Corporate - HTTP Request,200,OK,Swiggy 2-5,text,true,,355663,256,10,30,https://www.swiggy.com:443/corporate/,270,0,0
+1789535697572,270,Corporate - HTTP Request-0,301,Moved Permanently,Swiggy 2-5,text,true,,344,124,10,30,https://swiggy.com/corporate/,270,0,0
+1789535697843,4881,Corporate - HTTP Request-1,200,OK,Swiggy 2-5,text,true,,355319,132,10,30,https://www.swiggy.com:443/corporate/,4428,0,0
+1789535702277,738,Support -  Request,200,OK,Swiggy 2-8,text,true,,88803,250,10,30,https://www.swiggy.com:443/support,74,0,0
+1789535702277,74,Support -  Request-0,301,Moved Permanently,Swiggy 2-8,text,true,,341,121,10,30,https://swiggy.com/support,74,0,0
+1789535702351,664,Support -  Request-1,200,OK,Swiggy 2-8,text,true,,88462,129,10,30,https://www.swiggy.com:443/support,462,0,0
+1789535662417,40593,Dining - HTTP Request,200,OK,District 4-2,text,true,,966675,252,10,30,https://www.district.in:443/stores/,3938,0,3075
+1789535662417,3938,Dining - HTTP Request-0,301,Moved Permanently,District 4-2,text,true,,342,122,10,30,https://district.in/stores/,3938,0,3075
+1789535666356,36654,Dining - HTTP Request-1,200,OK,District 4-2,text,true,,966333,130,10,30,https://www.district.in:443/stores/,2139,0,1443
+1789535701886,1722,Offers - HTTP Request,200,OK,Swiggy 2-3,text,true,,338330,264,10,30,https://www.swiggy.com:443/offers-near-me,90,0,0
+1789535701886,90,Offers - HTTP Request-0,301,Moved Permanently,Swiggy 2-3,text,true,,348,128,10,30,https://swiggy.com/offers-near-me,90,0,0
+1789535701976,1632,Offers - HTTP Request-1,200,OK,Swiggy 2-3,text,true,,337982,136,10,30,https://www.swiggy.com:443/offers-near-me,835,0,0
+1789535701888,1738,Offers - HTTP Request,200,OK,Swiggy 2-10,text,true,,338330,264,10,30,https://www.swiggy.com:443/offers-near-me,88,0,0
+1789535701888,88,Offers - HTTP Request-0,301,Moved Permanently,Swiggy 2-10,text,true,,348,128,10,30,https://swiggy.com/offers-near-me,88,0,0
+1789535701976,1650,Offers - HTTP Request-1,200,OK,Swiggy 2-10,text,true,,337982,136,10,30,https://www.swiggy.com:443/offers-near-me,805,0,0
+1789535702726,980,FreshFruits - HTTP Request,202,Accepted,Swiggy 2-5,text,true,,1168,344,10,30,https://www.swiggy.com:443/instamart/category-listing?categoryName=Fresh%20Fruits,259,0,0
+1789535702726,259,FreshFruits - HTTP Request-0,301,Moved Permanently,Swiggy 2-5,text,true,,388,168,10,30,https://swiggy.com/instamart/category-listing?categoryName=Fresh%20Fruits,259,0,0
+1789535702985,721,FreshFruits - HTTP Request-1,202,Accepted,Swiggy 2-5,text,true,,780,176,10,30,https://www.swiggy.com:443/instamart/category-listing?categoryName=Fresh%20Fruits,721,0,0
+1789535698186,5606,Corporate - HTTP Request,200,OK,Swiggy 2-7,text,true,,355594,256,10,30,https://www.swiggy.com:443/corporate/,597,0,0
+1789535698186,597,Corporate - HTTP Request-0,301,Moved Permanently,Swiggy 2-7,text,true,,344,124,10,30,https://swiggy.com/corporate/,597,0,0
+1789535698783,5009,Corporate - HTTP Request-1,200,OK,Swiggy 2-7,text,true,,355250,132,10,30,https://www.swiggy.com:443/corporate/,3657,0,0
+1789535702206,1618,Offers - HTTP Request,200,OK,Swiggy 2-4,text,true,,338330,264,10,30,https://www.swiggy.com:443/offers-near-me,143,0,0
+1789535702206,143,Offers - HTTP Request-0,301,Moved Permanently,Swiggy 2-4,text,true,,348,128,10,30,https://swiggy.com/offers-near-me,143,0,0
+1789535702351,1473,Offers - HTTP Request-1,200,OK,Swiggy 2-4,text,true,,337982,136,10,30,https://www.swiggy.com:443/offers-near-me,1287,0,0
+1789535702371,1508,Offers - HTTP Request,200,OK,Swiggy 2-9,text,true,,334149,264,10,30,https://www.swiggy.com:443/offers-near-me,66,0,0
+1789535702371,66,Offers - HTTP Request-0,301,Moved Permanently,Swiggy 2-9,text,true,,348,128,10,30,https://swiggy.com/offers-near-me,66,0,0
+1789535702438,1441,Offers - HTTP Request-1,200,OK,Swiggy 2-9,text,true,,333801,136,10,30,https://www.swiggy.com:443/offers-near-me,1268,0,0
+1789535703628,306,Support -  Request,200,OK,Swiggy 2-10,text,true,,88811,250,10,30,https://www.swiggy.com:443/support,69,0,0
+1789535703628,69,Support -  Request-0,301,Moved Permanently,Swiggy 2-10,text,true,,341,121,10,30,https://swiggy.com/support,69,0,0
+1789535703697,237,Support -  Request-1,200,OK,Swiggy 2-10,text,true,,88470,129,10,30,https://www.swiggy.com:443/support,153,0,0
+1789535703610,323,Support -  Request,200,OK,Swiggy 2-3,text,true,,88810,250,10,30,https://www.swiggy.com:443/support,86,0,0
+1789535703610,87,Support -  Request-0,301,Moved Permanently,Swiggy 2-3,text,true,,341,121,10,30,https://swiggy.com/support,86,0,0
+1789535703697,236,Support -  Request-1,200,OK,Swiggy 2-3,text,true,,88469,129,10,30,https://www.swiggy.com:443/support,151,0,0
+1789535703708,800,Restaurants - HTTP Request,200,OK,Swiggy 2-5,text,true,,90750,258,10,30,https://www.swiggy.com:443/restaurants,248,0,0
+1789535703708,248,Restaurants - HTTP Request-0,301,Moved Permanently,Swiggy 2-5,text,true,,345,125,10,30,https://swiggy.com/restaurants,248,0,0
+1789535703956,552,Restaurants - HTTP Request-1,200,OK,Swiggy 2-5,text,true,,90405,133,10,30,https://www.swiggy.com:443/restaurants,211,0,0
+1789535703794,949,FreshFruits - HTTP Request,202,Accepted,Swiggy 2-7,text,true,,1168,344,10,30,https://www.swiggy.com:443/instamart/category-listing?categoryName=Fresh%20Fruits,829,0,0
+1789535703794,829,FreshFruits - HTTP Request-0,301,Moved Permanently,Swiggy 2-7,text,true,,388,168,10,30,https://swiggy.com/instamart/category-listing?categoryName=Fresh%20Fruits,829,0,0
+1789535704623,120,FreshFruits - HTTP Request-1,202,Accepted,Swiggy 2-7,text,true,,780,176,10,30,https://www.swiggy.com:443/instamart/category-listing?categoryName=Fresh%20Fruits,120,0,0
+1789535698890,5858,Corporate - HTTP Request,200,OK,Swiggy 2-2,text,true,,355515,256,10,30,https://www.swiggy.com:443/corporate/,152,0,0
+1789535698890,152,Corporate - HTTP Request-0,301,Moved Permanently,Swiggy 2-2,text,true,,344,124,10,30,https://swiggy.com/corporate/,152,0,0
+1789535699043,5705,Corporate - HTTP Request-1,200,OK,Swiggy 2-2,text,true,,355171,132,10,30,https://www.swiggy.com:443/corporate/,3737,0,0
+1789535703825,1045,Support -  Request,200,OK,Swiggy 2-4,text,true,,88817,250,10,30,https://www.swiggy.com:443/support,797,0,0
+1789535703825,797,Support -  Request-0,301,Moved Permanently,Swiggy 2-4,text,true,,341,121,10,30,https://swiggy.com/support,797,0,0
+1789535703880,990,Support -  Request,200,OK,Swiggy 2-9,text,true,,88788,250,10,30,https://www.swiggy.com:443/support,742,0,0
+1789535704622,248,Support -  Request-1,200,OK,Swiggy 2-4,text,true,,88476,129,10,30,https://www.swiggy.com:443/support,148,0,0
+1789535703880,742,Support -  Request-0,301,Moved Permanently,Swiggy 2-9,text,true,,341,121,10,30,https://swiggy.com/support,742,0,0
+1789535704624,246,Support -  Request-1,200,OK,Swiggy 2-9,text,true,,88447,129,10,30,https://www.swiggy.com:443/support,179,0,0
+1789535699023,5845,Corporate - HTTP Request,200,OK,Swiggy 2-1,text,true,,355533,256,10,30,https://www.swiggy.com:443/corporate/,157,0,0
+1789535699023,157,Corporate - HTTP Request-0,301,Moved Permanently,Swiggy 2-1,text,true,,344,124,10,30,https://swiggy.com/corporate/,157,0,0
+1789535699185,5683,Corporate - HTTP Request-1,200,OK,Swiggy 2-1,text,true,,355189,132,10,30,https://www.swiggy.com:443/corporate/,4453,0,0
+1789535700480,4398,Corporate - HTTP Request,200,OK,Swiggy 2-6,text,true,,355569,256,10,30,https://www.swiggy.com:443/corporate/,404,0,0
+1789535700480,404,Corporate - HTTP Request-0,301,Moved Permanently,Swiggy 2-6,text,true,,344,124,10,30,https://swiggy.com/corporate/,404,0,0
+1789535700885,3993,Corporate - HTTP Request-1,200,OK,Swiggy 2-6,text,true,,355225,132,10,30,https://www.swiggy.com:443/corporate/,3075,0,0
+1789535704871,213,FreshFruits - HTTP Request,202,Accepted,Swiggy 2-1,text,true,,1168,344,10,30,https://www.swiggy.com:443/instamart/category-listing?categoryName=Fresh%20Fruits,98,0,0
+1789535704750,334,FreshFruits - HTTP Request,202,Accepted,Swiggy 2-2,text,true,,1168,344,10,30,https://www.swiggy.com:443/instamart/category-listing?categoryName=Fresh%20Fruits,214,0,0
+1789535704871,98,FreshFruits - HTTP Request-0,301,Moved Permanently,Swiggy 2-1,text,true,,388,168,10,30,https://swiggy.com/instamart/category-listing?categoryName=Fresh%20Fruits,98,0,0
+1789535704750,214,FreshFruits - HTTP Request-0,301,Moved Permanently,Swiggy 2-2,text,true,,388,168,10,30,https://swiggy.com/instamart/category-listing?categoryName=Fresh%20Fruits,214,0,0
+1789535704970,114,FreshFruits - HTTP Request-1,202,Accepted,Swiggy 2-1,text,true,,780,176,10,30,https://www.swiggy.com:443/instamart/category-listing?categoryName=Fresh%20Fruits,114,0,0
+1789535704964,120,FreshFruits - HTTP Request-1,202,Accepted,Swiggy 2-2,text,true,,780,176,10,30,https://www.swiggy.com:443/instamart/category-listing?categoryName=Fresh%20Fruits,120,0,0
+1789535704880,204,FreshFruits - HTTP Request,202,Accepted,Swiggy 2-6,text,true,,1168,344,10,30,https://www.swiggy.com:443/instamart/category-listing?categoryName=Fresh%20Fruits,90,0,0
+1789535704880,90,FreshFruits - HTTP Request-0,301,Moved Permanently,Swiggy 2-6,text,true,,388,168,10,30,https://swiggy.com/instamart/category-listing?categoryName=Fresh%20Fruits,90,0,0
+1789535704970,114,FreshFruits - HTTP Request-1,202,Accepted,Swiggy 2-6,text,true,,780,176,10,30,https://www.swiggy.com:443/instamart/category-listing?categoryName=Fresh%20Fruits,114,0,0
+1789535704745,542,Restaurants - HTTP Request,200,OK,Swiggy 2-7,text,true,,90737,258,10,30,https://www.swiggy.com:443/restaurants,219,0,0
+1789535704745,219,Restaurants - HTTP Request-0,301,Moved Permanently,Swiggy 2-7,text,true,,345,125,10,30,https://swiggy.com/restaurants,219,0,0
+1789535704964,323,Restaurants - HTTP Request-1,200,OK,Swiggy 2-7,text,true,,90392,133,10,30,https://www.swiggy.com:443/restaurants,257,0,0
+1789535703017,2275,Corporate - HTTP Request,200,OK,Swiggy 2-8,text,true,,355588,256,10,30,https://www.swiggy.com:443/corporate/,494,0,0
+1789535703017,494,Corporate - HTTP Request-0,301,Moved Permanently,Swiggy 2-8,text,true,,344,124,10,30,https://swiggy.com/corporate/,494,0,0
+1789535703511,1781,Corporate - HTTP Request-1,200,OK,Swiggy 2-8,text,true,,355244,132,10,30,https://www.swiggy.com:443/corporate/,1032,0,0
+1789535704509,1465,Offers - HTTP Request,200,OK,Swiggy 2-5,text,true,,334148,264,10,30,https://www.swiggy.com:443/offers-near-me,118,0,0
+1789535704509,118,Offers - HTTP Request-0,301,Moved Permanently,Swiggy 2-5,text,true,,348,128,10,30,https://swiggy.com/offers-near-me,118,0,0
+1789535704628,1346,Offers - HTTP Request-1,200,OK,Swiggy 2-5,text,true,,333800,136,10,30,https://www.swiggy.com:443/offers-near-me,598,0,0
+1789535705293,907,FreshFruits - HTTP Request,202,Accepted,Swiggy 2-8,text,true,,1168,344,10,30,https://www.swiggy.com:443/instamart/category-listing?categoryName=Fresh%20Fruits,733,0,0
+1789535705293,733,FreshFruits - HTTP Request-0,301,Moved Permanently,Swiggy 2-8,text,true,,388,168,10,30,https://swiggy.com/instamart/category-listing?categoryName=Fresh%20Fruits,733,0,0
+1789535706026,174,FreshFruits - HTTP Request-1,202,Accepted,Swiggy 2-8,text,true,,780,176,10,30,https://www.swiggy.com:443/instamart/category-listing?categoryName=Fresh%20Fruits,174,0,0
+1789535705087,1115,Restaurants - HTTP Request,200,OK,Swiggy 2-6,text,true,,90715,258,10,30,https://www.swiggy.com:443/restaurants,60,0,0
+1789535705087,61,Restaurants - HTTP Request-0,301,Moved Permanently,Swiggy 2-6,text,true,,345,125,10,30,https://swiggy.com/restaurants,60,0,0
+1789535705148,1054,Restaurants - HTTP Request-1,200,OK,Swiggy 2-6,text,true,,90370,133,10,30,https://www.swiggy.com:443/restaurants,824,0,0
+1789535705085,1384,Restaurants - HTTP Request,200,OK,Swiggy 2-1,text,true,,90722,258,9,29,https://www.swiggy.com:443/restaurants,64,0,0
+1789535705085,64,Restaurants - HTTP Request-0,301,Moved Permanently,Swiggy 2-1,text,true,,345,125,9,29,https://swiggy.com/restaurants,64,0,0
+1789535705149,1320,Restaurants - HTTP Request-1,200,OK,Swiggy 2-1,text,true,,90377,133,9,29,https://www.swiggy.com:443/restaurants,1053,0,0
+1789535705085,1858,Restaurants - HTTP Request,200,OK,Swiggy 2-2,text,true,,90760,258,9,29,https://www.swiggy.com:443/restaurants,61,0,0
+1789535705085,61,Restaurants - HTTP Request-0,301,Moved Permanently,Swiggy 2-2,text,true,,345,125,9,29,https://swiggy.com/restaurants,61,0,0
+1789535705147,1796,Restaurants - HTTP Request-1,200,OK,Swiggy 2-2,text,true,,90415,133,9,29,https://www.swiggy.com:443/restaurants,940,0,0
+1789535705291,1898,Offers - HTTP Request,200,OK,Swiggy 2-7,text,true,,338331,264,9,29,https://www.swiggy.com:443/offers-near-me,735,0,0
+1789535705291,735,Offers - HTTP Request-0,301,Moved Permanently,Swiggy 2-7,text,true,,348,128,9,29,https://swiggy.com/offers-near-me,735,0,0
+1789535706026,1163,Offers - HTTP Request-1,200,OK,Swiggy 2-7,text,true,,337983,136,9,29,https://www.swiggy.com:443/offers-near-me,917,0,0
+1789535703935,4653,Corporate - HTTP Request,200,OK,Swiggy 2-10,text,true,,355573,256,9,29,https://www.swiggy.com:443/corporate/,688,0,0
+1789535703935,688,Corporate - HTTP Request-0,301,Moved Permanently,Swiggy 2-10,text,true,,344,124,9,29,https://swiggy.com/corporate/,688,0,0
+1789535704624,3964,Corporate - HTTP Request-1,200,OK,Swiggy 2-10,text,true,,355229,132,9,29,https://www.swiggy.com:443/corporate/,2792,0,0
+1789535707190,1410,Support -  Request,200,OK,Swiggy 2-7,text,true,,88789,250,9,29,https://www.swiggy.com:443/support,220,0,0
+1789535707190,220,Support -  Request-0,301,Moved Permanently,Swiggy 2-7,text,true,,341,121,9,29,https://swiggy.com/support,220,0,0
+1789535707410,1190,Support -  Request-1,200,OK,Swiggy 2-7,text,true,,88448,129,9,29,https://www.swiggy.com:443/support,1155,0,0
+1789535703939,4689,Corporate - HTTP Request,200,OK,Swiggy 2-3,text,true,,355521,256,9,29,https://www.swiggy.com:443/corporate/,683,0,0
+1789535703939,683,Corporate - HTTP Request-0,301,Moved Permanently,Swiggy 2-3,text,true,,344,124,9,29,https://swiggy.com/corporate/,683,0,0
+1789535704622,4006,Corporate - HTTP Request-1,200,OK,Swiggy 2-3,text,true,,355177,132,9,29,https://www.swiggy.com:443/corporate/,3947,0,0
+1789535705975,2683,Support -  Request,200,OK,Swiggy 2-5,text,true,,88810,250,9,29,https://www.swiggy.com:443/support,1431,0,0
+1789535705975,1431,Support -  Request-0,301,Moved Permanently,Swiggy 2-5,text,true,,341,121,9,29,https://swiggy.com/support,1431,0,0
+1789535707406,1252,Support -  Request-1,200,OK,Swiggy 2-5,text,true,,88469,129,9,29,https://www.swiggy.com:443/support,884,0,0
+1789535708589,683,FreshFruits - HTTP Request,202,Accepted,Swiggy 2-10,text,true,,1168,344,9,29,https://www.swiggy.com:443/instamart/category-listing?categoryName=Fresh%20Fruits,423,0,0
+1789535708589,423,FreshFruits - HTTP Request-0,301,Moved Permanently,Swiggy 2-10,text,true,,388,168,9,29,https://swiggy.com/instamart/category-listing?categoryName=Fresh%20Fruits,423,0,0
+1789535708628,644,FreshFruits - HTTP Request,202,Accepted,Swiggy 2-3,text,true,,1168,344,9,29,https://www.swiggy.com:443/instamart/category-listing?categoryName=Fresh%20Fruits,384,0,0
+1789535709012,260,FreshFruits - HTTP Request-1,202,Accepted,Swiggy 2-10,text,true,,780,176,9,29,https://www.swiggy.com:443/instamart/category-listing?categoryName=Fresh%20Fruits,260,0,0
+1789535708628,384,FreshFruits - HTTP Request-0,301,Moved Permanently,Swiggy 2-3,text,true,,388,168,9,29,https://swiggy.com/instamart/category-listing?categoryName=Fresh%20Fruits,384,0,0
+1789535709012,260,FreshFruits - HTTP Request-1,202,Accepted,Swiggy 2-3,text,true,,780,176,9,29,https://www.swiggy.com:443/instamart/category-listing?categoryName=Fresh%20Fruits,260,0,0
+1789535706203,3198,Offers - HTTP Request,200,OK,Swiggy 2-6,text,true,,338329,264,7,27,https://www.swiggy.com:443/offers-near-me,1207,0,0
+1789535706203,1207,Offers - HTTP Request-0,301,Moved Permanently,Swiggy 2-6,text,true,,348,128,7,27,https://swiggy.com/offers-near-me,1207,0,0
+1789535707410,1991,Offers - HTTP Request-1,200,OK,Swiggy 2-6,text,true,,337981,136,7,27,https://www.swiggy.com:443/offers-near-me,1221,0,0
+1789535706469,3260,Offers - HTTP Request,200,OK,Swiggy 2-1,text,true,,334148,264,7,27,https://www.swiggy.com:443/offers-near-me,940,0,0
+1789535706469,940,Offers - HTTP Request-0,301,Moved Permanently,Swiggy 2-1,text,true,,348,128,7,27,https://swiggy.com/offers-near-me,940,0,0
+1789535707410,2319,Offers - HTTP Request-1,200,OK,Swiggy 2-1,text,true,,333800,136,7,27,https://www.swiggy.com:443/offers-near-me,1219,0,0
+1789535706943,2789,Offers - HTTP Request,200,OK,Swiggy 2-2,text,true,,338330,264,7,27,https://www.swiggy.com:443/offers-near-me,467,0,0
+1789535706943,467,Offers - HTTP Request-0,301,Moved Permanently,Swiggy 2-2,text,true,,348,128,7,27,https://swiggy.com/offers-near-me,467,0,0
+1789535707411,2321,Offers - HTTP Request-1,200,OK,Swiggy 2-2,text,true,,337982,136,7,27,https://www.swiggy.com:443/offers-near-me,1220,0,0
+1789535709401,1258,Support -  Request,200,OK,Swiggy 2-6,text,true,,88811,250,7,27,https://www.swiggy.com:443/support,68,0,0
+1789535709401,68,Support -  Request-0,301,Moved Permanently,Swiggy 2-6,text,true,,341,121,7,27,https://swiggy.com/support,68,0,0
+1789535709469,1190,Support -  Request-1,200,OK,Swiggy 2-6,text,true,,88470,129,7,27,https://www.swiggy.com:443/support,263,0,0
+1789535704870,5790,Corporate - HTTP Request,200,OK,Swiggy 2-4,text,true,,355672,256,7,27,https://www.swiggy.com:443/corporate/,99,0,0
+1789535704870,99,Corporate - HTTP Request-0,301,Moved Permanently,Swiggy 2-4,text,true,,344,124,7,27,https://swiggy.com/corporate/,99,0,0
+1789535704970,5690,Corporate - HTTP Request-1,200,OK,Swiggy 2-4,text,true,,355328,132,7,27,https://www.swiggy.com:443/corporate/,4775,0,0
+1789535663416,47278,Dining - HTTP Request,200,OK,District 4-4,text,true,,966692,252,10,27,https://www.district.in:443/stores/,4222,0,2950
+1789535663416,4223,Dining - HTTP Request-0,301,Moved Permanently,District 4-4,text,true,,342,122,10,27,https://district.in/stores/,4222,0,2950
+1789535667653,43041,Dining - HTTP Request-1,200,OK,District 4-4,text,true,,966350,130,10,27,https://www.district.in:443/stores/,3795,0,842
+1789535710661,663,FreshFruits - HTTP Request,202,Accepted,Swiggy 2-4,text,true,,1168,344,7,27,https://www.swiggy.com:443/instamart/category-listing?categoryName=Fresh%20Fruits,148,0,0
+1789535710661,148,FreshFruits - HTTP Request-0,301,Moved Permanently,Swiggy 2-4,text,true,,388,168,7,27,https://swiggy.com/instamart/category-listing?categoryName=Fresh%20Fruits,148,0,0
+1789535710810,514,FreshFruits - HTTP Request-1,202,Accepted,Swiggy 2-4,text,true,,780,176,7,27,https://www.swiggy.com:443/instamart/category-listing?categoryName=Fresh%20Fruits,514,0,0
+1789535704870,6456,Corporate - HTTP Request,200,OK,Swiggy 2-9,text,true,,355498,256,7,27,https://www.swiggy.com:443/corporate/,99,0,0
+1789535704870,99,Corporate - HTTP Request-0,301,Moved Permanently,Swiggy 2-9,text,true,,344,124,7,27,https://swiggy.com/corporate/,99,0,0
+1789535704969,6357,Corporate - HTTP Request-1,200,OK,Swiggy 2-9,text,true,,355154,132,7,27,https://www.swiggy.com:443/corporate/,5271,0,0
+1789535709733,1668,Support -  Request,200,OK,Swiggy 2-2,text,true,,88794,250,6,26,https://www.swiggy.com:443/support,489,0,0
+1789535709733,489,Support -  Request-0,301,Moved Permanently,Swiggy 2-2,text,true,,341,121,6,26,https://swiggy.com/support,489,0,0
+1789535710222,1179,Support -  Request-1,200,OK,Swiggy 2-2,text,true,,88453,129,6,26,https://www.swiggy.com:443/support,593,0,0
+1789535709738,1711,Support -  Request,200,OK,Swiggy 2-1,text,true,,88787,250,6,26,https://www.swiggy.com:443/support,484,0,0
+1789535709738,484,Support -  Request-0,301,Moved Permanently,Swiggy 2-1,text,true,,341,121,6,26,https://swiggy.com/support,484,0,0
+1789535710223,1226,Support -  Request-1,200,OK,Swiggy 2-1,text,true,,88446,129,6,26,https://www.swiggy.com:443/support,594,0,0
+1789535711327,122,FreshFruits - HTTP Request,202,Accepted,Swiggy 2-9,text,true,,1168,344,6,26,https://www.swiggy.com:443/instamart/category-listing?categoryName=Fresh%20Fruits,101,0,0
+1789535711327,102,FreshFruits - HTTP Request-0,301,Moved Permanently,Swiggy 2-9,text,true,,388,168,6,26,https://swiggy.com/instamart/category-listing?categoryName=Fresh%20Fruits,101,0,0
+1789535711429,20,FreshFruits - HTTP Request-1,202,Accepted,Swiggy 2-9,text,true,,780,176,6,26,https://www.swiggy.com:443/instamart/category-listing?categoryName=Fresh%20Fruits,20,0,0
+1789535664425,48397,Dining - HTTP Request,200,OK,District 4-6,text,true,,968358,252,10,25,https://www.district.in:443/stores/,3376,0,3214
+1789535664425,3376,Dining - HTTP Request-0,301,Moved Permanently,District 4-6,text,true,,342,122,10,25,https://district.in/stores/,3376,0,3214
+1789535667802,45020,Dining - HTTP Request-1,200,OK,District 4-6,text,true,,968016,130,10,25,https://www.district.in:443/stores/,9793,0,2696
+1789535708659,6615,Corporate - HTTP Request,200,OK,Swiggy 2-5,text,true,,355581,256,5,25,https://www.swiggy.com:443/corporate/,353,0,0
+1789535708659,353,Corporate - HTTP Request-0,301,Moved Permanently,Swiggy 2-5,text,true,,344,124,5,25,https://swiggy.com/corporate/,353,0,0
+1789535709012,6262,Corporate - HTTP Request-1,200,OK,Swiggy 2-5,text,true,,355237,132,5,25,https://www.swiggy.com:443/corporate/,5787,0,0
+1789535715272,331,FreshFruits - HTTP Request,202,Accepted,Swiggy 2-5,text,true,,1168,344,5,25,https://www.swiggy.com:443/instamart/category-listing?categoryName=Fresh%20Fruits,319,0,0
+1789535715272,319,FreshFruits - HTTP Request-0,301,Moved Permanently,Swiggy 2-5,text,true,,388,168,5,25,https://swiggy.com/instamart/category-listing?categoryName=Fresh%20Fruits,319,0,0
+1789535715591,12,FreshFruits - HTTP Request-1,202,Accepted,Swiggy 2-5,text,true,,780,176,5,25,https://www.swiggy.com:443/instamart/category-listing?categoryName=Fresh%20Fruits,12,0,0
+1789535708601,7026,Corporate - HTTP Request,200,OK,Swiggy 2-7,text,true,,355582,256,4,24,https://www.swiggy.com:443/corporate/,411,0,0
+1789535708601,411,Corporate - HTTP Request-0,301,Moved Permanently,Swiggy 2-7,text,true,,344,124,4,24,https://swiggy.com/corporate/,411,0,0
+1789535709012,6615,Corporate - HTTP Request-1,200,OK,Swiggy 2-7,text,true,,355238,132,4,24,https://www.swiggy.com:443/corporate/,6262,0,0
+1789535715625,441,FreshFruits - HTTP Request,202,Accepted,Swiggy 2-7,text,true,,1168,344,4,24,https://www.swiggy.com:443/instamart/category-listing?categoryName=Fresh%20Fruits,398,0,0
+1789535715625,398,FreshFruits - HTTP Request-0,301,Moved Permanently,Swiggy 2-7,text,true,,388,168,4,24,https://swiggy.com/instamart/category-listing?categoryName=Fresh%20Fruits,398,0,0
+1789535716023,43,FreshFruits - HTTP Request-1,202,Accepted,Swiggy 2-7,text,true,,780,176,4,24,https://www.swiggy.com:443/instamart/category-listing?categoryName=Fresh%20Fruits,43,0,0
+1789535710660,5966,Corporate - HTTP Request,200,OK,Swiggy 2-6,text,true,,355690,256,3,23,https://www.swiggy.com:443/corporate/,149,0,0
+1789535710660,149,Corporate - HTTP Request-0,301,Moved Permanently,Swiggy 2-6,text,true,,344,124,3,23,https://swiggy.com/corporate/,149,0,0
+1789535710810,5816,Corporate - HTTP Request-1,200,OK,Swiggy 2-6,text,true,,355346,132,3,23,https://www.swiggy.com:443/corporate/,4835,0,0
+1789535716625,217,FreshFruits - HTTP Request,202,Accepted,Swiggy 2-6,text,true,,1168,344,3,23,https://www.swiggy.com:443/instamart/category-listing?categoryName=Fresh%20Fruits,204,0,0
+1789535716625,204,FreshFruits - HTTP Request-0,301,Moved Permanently,Swiggy 2-6,text,true,,388,168,3,23,https://swiggy.com/instamart/category-listing?categoryName=Fresh%20Fruits,204,0,0
+1789535716829,13,FreshFruits - HTTP Request-1,202,Accepted,Swiggy 2-6,text,true,,780,176,3,23,https://www.swiggy.com:443/instamart/category-listing?categoryName=Fresh%20Fruits,13,0,0
+1789535711402,6913,Corporate - HTTP Request,200,OK,Swiggy 2-2,text,true,,355582,256,2,22,https://www.swiggy.com:443/corporate/,161,0,0
+1789535711402,161,Corporate - HTTP Request-0,301,Moved Permanently,Swiggy 2-2,text,true,,344,124,2,22,https://swiggy.com/corporate/,161,0,0
+1789535711450,6865,Corporate - HTTP Request,200,OK,Swiggy 2-1,text,true,,355499,256,2,22,https://www.swiggy.com:443/corporate/,113,0,0
+1789535711563,6752,Corporate - HTTP Request-1,200,OK,Swiggy 2-2,text,true,,355238,132,2,22,https://www.swiggy.com:443/corporate/,5956,0,0
+1789535711450,113,Corporate - HTTP Request-0,301,Moved Permanently,Swiggy 2-1,text,true,,344,124,2,22,https://swiggy.com/corporate/,113,0,0
+1789535711563,6752,Corporate - HTTP Request-1,200,OK,Swiggy 2-1,text,true,,355155,132,2,22,https://www.swiggy.com:443/corporate/,6024,0,0
+1789535718316,218,FreshFruits - HTTP Request,202,Accepted,Swiggy 2-1,text,true,,1168,344,2,22,https://www.swiggy.com:443/instamart/category-listing?categoryName=Fresh%20Fruits,163,0,0
+1789535718315,219,FreshFruits - HTTP Request,202,Accepted,Swiggy 2-2,text,true,,1168,344,2,22,https://www.swiggy.com:443/instamart/category-listing?categoryName=Fresh%20Fruits,164,0,0
+1789535718315,165,FreshFruits - HTTP Request-0,301,Moved Permanently,Swiggy 2-2,text,true,,388,168,2,22,https://swiggy.com/instamart/category-listing?categoryName=Fresh%20Fruits,164,0,0
+1789535718316,164,FreshFruits - HTTP Request-0,301,Moved Permanently,Swiggy 2-1,text,true,,388,168,2,22,https://swiggy.com/instamart/category-listing?categoryName=Fresh%20Fruits,163,0,0
+1789535718480,54,FreshFruits - HTTP Request-1,202,Accepted,Swiggy 2-2,text,true,,780,176,2,22,https://www.swiggy.com:443/instamart/category-listing?categoryName=Fresh%20Fruits,54,0,0
+1789535718480,54,FreshFruits - HTTP Request-1,202,Accepted,Swiggy 2-1,text,true,,780,176,2,22,https://www.swiggy.com:443/instamart/category-listing?categoryName=Fresh%20Fruits,54,0,0
+1789535702364,26256,Movies - HTTP Request,Non HTTP response code: java.net.SocketException,"Non HTTP response message: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond",District 4-3,text,false,,4486,121,10,20,https://www.myntra.com/movies/,2259,0,1184
+1789535702364,2259,Movies - HTTP Request-0,301,Moved Permanently,District 4-3,,true,,435,121,10,20,https://myntra.com/movies/,2259,0,1184
+1789535704626,23994,Movies - HTTP Request-1,Non HTTP response code: java.net.SocketException,"Non HTTP response message: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond",District 4-3,text,false,,4051,0,10,20,https://www.myntra.com/movies/,0,0,354
+1789535695005,92280,Movies - HTTP Request,Non HTTP response code: java.net.SocketException,"Non HTTP response message: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond",District 4-1,text,false,,4490,121,10,20,https://www.myntra.com/movies/,2945,0,2424
+1789535695005,2945,Movies - HTTP Request-0,301,Moved Permanently,District 4-1,,true,,439,121,10,20,https://myntra.com/movies/,2945,0,2424
+1789535697951,89334,Movies - HTTP Request-1,Non HTTP response code: java.net.SocketException,"Non HTTP response message: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond",District 4-1,text,false,,4051,0,10,20,https://www.myntra.com/movies/,0,0,853
+1789535701674,86656,Movies - HTTP Request,Non HTTP response code: java.net.SocketException,"Non HTTP response message: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond",District 4-7,text,false,,4487,121,10,20,https://www.myntra.com/movies/,1310,0,769
+1789535701674,1310,Movies - HTTP Request-0,301,Moved Permanently,District 4-7,,true,,436,121,10,20,https://myntra.com/movies/,1310,0,769
+1789535703013,85317,Movies - HTTP Request-1,Non HTTP response code: java.net.SocketException,"Non HTTP response message: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond",District 4-7,text,false,,4051,0,10,20,https://www.myntra.com/movies/,0,0,712
+1789535662040,154522,Women - HTTP Request,Non HTTP response code: java.net.SocketException,"Non HTTP response message: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond",Myntra 1-1,text,false,,4491,124,10,20,https://www.myntra.com/shop/women,3489,0,2338
+1789535662040,3489,Women - HTTP Request-0,301,Moved Permanently,Myntra 1-1,,true,,440,124,10,20,https://myntra.com/shop/women,3489,0,2338
+1789535665531,151031,Women - HTTP Request-1,Non HTTP response code: java.net.SocketException,"Non HTTP response message: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond",Myntra 1-1,text,false,,4051,0,10,20,https://www.myntra.com/shop/women,0,0,2107
+1789535662883,222567,Women - HTTP Request,Non HTTP response code: java.net.SocketException,"Non HTTP response message: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond",Myntra 1-3,text,false,,3627,0,10,20,https://myntra.com/shop/women,0,0,222564
